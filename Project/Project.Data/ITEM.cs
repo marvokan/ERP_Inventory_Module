@@ -6,17 +6,15 @@ using System.Threading.Tasks;
 
 namespace Inventory.Data
 {
-    public class ITEM_INV
+    public class ITEM
     {
         public int ID { get; set; }
 
-        public int STORE_CID { get; set;}
+        public required string CODE { get; set; }
 
+        public int MEASUREMENT_UNIT_CID { get; set; }
 
-        public DateTime INV_DATETIM {  get; set;}
-
-
-        public string PERSON {  get; set;}
+        public int ITEM_CATEGORY_CID { get; set; }
 
     }
 }

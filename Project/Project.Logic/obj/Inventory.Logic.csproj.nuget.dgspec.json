@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\CS 412 - Object Oriented Patterns\\Project\\Project.Logic\\Inventory.Logic.csproj": {}
+    "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj": {}
   },
   "projects": {
-    "Z:\\CS 412 - Object Oriented Patterns\\Project\\Inventory.Common\\Inventory.Common.csproj": {
+    "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\CS 412 - Object Oriented Patterns\\Project\\Inventory.Common\\Inventory.Common.csproj",
+        "projectUniqueName": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj",
         "projectName": "Inventory.Common",
-        "projectPath": "Z:\\CS 412 - Object Oriented Patterns\\Project\\Inventory.Common\\Inventory.Common.csproj",
+        "projectPath": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj",
         "packagesPath": "C:\\Users\\20220364\\.nuget\\packages\\",
-        "outputPath": "Z:\\CS 412 - Object Oriented Patterns\\Project\\Inventory.Common\\obj\\",
+        "outputPath": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Inventory.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "Z:\\CS 412 - Object Oriented Patterns\\Project\\Project.Data\\Inventory.Data.csproj": {
+    "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Data\\Inventory.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\CS 412 - Object Oriented Patterns\\Project\\Project.Data\\Inventory.Data.csproj",
+        "projectUniqueName": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Data\\Inventory.Data.csproj",
         "projectName": "Inventory.Data",
-        "projectPath": "Z:\\CS 412 - Object Oriented Patterns\\Project\\Project.Data\\Inventory.Data.csproj",
+        "projectPath": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Data\\Inventory.Data.csproj",
         "packagesPath": "C:\\Users\\20220364\\.nuget\\packages\\",
-        "outputPath": "Z:\\CS 412 - Object Oriented Patterns\\Project\\Project.Data\\obj\\",
+        "outputPath": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "Z:\\CS 412 - Object Oriented Patterns\\Project\\Inventory.Common\\Inventory.Common.csproj": {
-                "projectPath": "Z:\\CS 412 - Object Oriented Patterns\\Project\\Inventory.Common\\Inventory.Common.csproj"
+              "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj": {
+                "projectPath": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj"
               }
             }
           }
@@ -138,14 +138,14 @@
         }
       }
     },
-    "Z:\\CS 412 - Object Oriented Patterns\\Project\\Project.Logic\\Inventory.Logic.csproj": {
+    "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\CS 412 - Object Oriented Patterns\\Project\\Project.Logic\\Inventory.Logic.csproj",
+        "projectUniqueName": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj",
         "projectName": "Inventory.Logic",
-        "projectPath": "Z:\\CS 412 - Object Oriented Patterns\\Project\\Project.Logic\\Inventory.Logic.csproj",
+        "projectPath": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj",
         "packagesPath": "C:\\Users\\20220364\\.nuget\\packages\\",
-        "outputPath": "Z:\\CS 412 - Object Oriented Patterns\\Project\\Project.Logic\\obj\\",
+        "outputPath": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -167,11 +167,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "Z:\\CS 412 - Object Oriented Patterns\\Project\\Inventory.Common\\Inventory.Common.csproj": {
-                "projectPath": "Z:\\CS 412 - Object Oriented Patterns\\Project\\Inventory.Common\\Inventory.Common.csproj"
+              "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj": {
+                "projectPath": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj"
               },
-              "Z:\\CS 412 - Object Oriented Patterns\\Project\\Project.Data\\Inventory.Data.csproj": {
-                "projectPath": "Z:\\CS 412 - Object Oriented Patterns\\Project\\Project.Data\\Inventory.Data.csproj"
+              "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Data\\Inventory.Data.csproj": {
+                "projectPath": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Data\\Inventory.Data.csproj"
               }
             }
           }

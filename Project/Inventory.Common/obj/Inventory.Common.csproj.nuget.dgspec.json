@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\CS 412 - Object Oriented Patterns\\Project\\Inventory.Common\\Inventory.Common.csproj": {}
+    "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj": {}
   },
   "projects": {
-    "Z:\\CS 412 - Object Oriented Patterns\\Project\\Inventory.Common\\Inventory.Common.csproj": {
+    "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\CS 412 - Object Oriented Patterns\\Project\\Inventory.Common\\Inventory.Common.csproj",
+        "projectUniqueName": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj",
         "projectName": "Inventory.Common",
-        "projectPath": "Z:\\CS 412 - Object Oriented Patterns\\Project\\Inventory.Common\\Inventory.Common.csproj",
+        "projectPath": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj",
         "packagesPath": "C:\\Users\\20220364\\.nuget\\packages\\",
-        "outputPath": "Z:\\CS 412 - Object Oriented Patterns\\Project\\Inventory.Common\\obj\\",
+        "outputPath": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Inventory.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
