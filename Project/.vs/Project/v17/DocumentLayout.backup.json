@@ -1,86 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "Z:\\CS 412 - Object Oriented Patterns\\Project\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|z:\\cs 412 - object oriented patterns\\project\\project.data\\item_inv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|solutionrelative:project.data\\item_inv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|z:\\cs 412 - object oriented patterns\\project\\project.data\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|solutionrelative:project.data\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|z:\\cs 412 - object oriented patterns\\project\\project.data\\store_pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|solutionrelative:project.data\\store_pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|z:\\cs 412 - object oriented patterns\\project\\project.data\\item_inv_line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|solutionrelative:project.data\\item_inv_line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ITEM_INV.cs",
-              "DocumentMoniker": "Z:\\CS 412 - Object Oriented Patterns\\Project\\Project.Data\\ITEM_INV.cs",
-              "RelativeDocumentMoniker": "Project.Data\\ITEM_INV.cs",
-              "ToolTip": "Z:\\CS 412 - Object Oriented Patterns\\Project\\Project.Data\\ITEM_INV.cs",
-              "RelativeToolTip": "Project.Data\\ITEM_INV.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T15:00:35.413Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "STORE_POS.cs",
-              "DocumentMoniker": "Z:\\CS 412 - Object Oriented Patterns\\Project\\Project.Data\\STORE_POS.cs",
-              "RelativeDocumentMoniker": "Project.Data\\STORE_POS.cs",
-              "ToolTip": "Z:\\CS 412 - Object Oriented Patterns\\Project\\Project.Data\\STORE_POS.cs",
-              "RelativeToolTip": "Project.Data\\STORE_POS.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T15:11:54.863Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "STORE.cs",
-              "DocumentMoniker": "Z:\\CS 412 - Object Oriented Patterns\\Project\\Project.Data\\STORE.cs",
-              "RelativeDocumentMoniker": "Project.Data\\STORE.cs",
-              "ToolTip": "Z:\\CS 412 - Object Oriented Patterns\\Project\\Project.Data\\STORE.cs",
-              "RelativeToolTip": "Project.Data\\STORE.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T15:10:37.505Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ITEM_INV_LINE.cs",
-              "DocumentMoniker": "Z:\\CS 412 - Object Oriented Patterns\\Project\\Project.Data\\ITEM_INV_LINE.cs",
-              "RelativeDocumentMoniker": "Project.Data\\ITEM_INV_LINE.cs",
-              "ToolTip": "Z:\\CS 412 - Object Oriented Patterns\\Project\\Project.Data\\ITEM_INV_LINE.cs",
-              "RelativeToolTip": "Project.Data\\ITEM_INV_LINE.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T14:37:52.537Z"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
