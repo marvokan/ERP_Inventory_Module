@@ -16,3 +16,21 @@ C:\Users\thana\Desktop\ACT\CS 412 - Object Oriented Patterns\412Project\Project\
 C:\Users\thana\Desktop\ACT\CS 412 - Object Oriented Patterns\412Project\Project\Project.Logic\obj\Debug\net8.0\refint\Inventory.Logic.dll
 C:\Users\thana\Desktop\ACT\CS 412 - Object Oriented Patterns\412Project\Project\Project.Logic\obj\Debug\net8.0\Inventory.Logic.pdb
 C:\Users\thana\Desktop\ACT\CS 412 - Object Oriented Patterns\412Project\Project\Project.Logic\obj\Debug\net8.0\ref\Inventory.Logic.dll
+C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\bin\Debug\net8.0\Inventory.Logic.deps.json
+C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\bin\Debug\net8.0\Inventory.Logic.dll
+C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\bin\Debug\net8.0\Inventory.Logic.pdb
+C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\bin\Debug\net8.0\Inventory.Common.dll
+C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\bin\Debug\net8.0\Inventory.Data.dll
+C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\bin\Debug\net8.0\Inventory.Common.pdb
+C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\bin\Debug\net8.0\Inventory.Data.pdb
+C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\obj\Debug\net8.0\Inventory.Logic.csproj.AssemblyReference.cache
+C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\obj\Debug\net8.0\Inventory.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\obj\Debug\net8.0\Inventory.Logic.AssemblyInfoInputs.cache
+C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\obj\Debug\net8.0\Inventory.Logic.AssemblyInfo.cs
+C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\obj\Debug\net8.0\Inventory.Logic.csproj.CoreCompileInputs.cache
+C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\obj\Debug\net8.0\Inventory.Logic.sourcelink.json
+C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\obj\Debug\net8.0\Inventor.54358988.Up2Date
+C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\obj\Debug\net8.0\Inventory.Logic.dll
+C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\obj\Debug\net8.0\refint\Inventory.Logic.dll
+C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\obj\Debug\net8.0\Inventory.Logic.pdb
+C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\obj\Debug\net8.0\ref\Inventory.Logic.dll

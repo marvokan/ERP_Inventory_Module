@@ -23,3 +23,28 @@ C:\Users\thana\Desktop\ACT\CS 412 - Object Oriented Patterns\412Project\Project\
 C:\Users\thana\Desktop\ACT\CS 412 - Object Oriented Patterns\412Project\Project\Inventory.UX\obj\Debug\net8.0-windows\Inventory.UX.pdb
 C:\Users\thana\Desktop\ACT\CS 412 - Object Oriented Patterns\412Project\Project\Inventory.UX\obj\Debug\net8.0-windows\Inventory.UX.genruntimeconfig.cache
 C:\Users\thana\Desktop\ACT\CS 412 - Object Oriented Patterns\412Project\Project\Inventory.UX\obj\Debug\net8.0-windows\ref\Inventory.UX.dll
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\bin\Debug\net8.0-windows\Inventory.UX.exe
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\bin\Debug\net8.0-windows\Inventory.UX.deps.json
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\bin\Debug\net8.0-windows\Inventory.UX.runtimeconfig.json
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\bin\Debug\net8.0-windows\Inventory.UX.dll
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\bin\Debug\net8.0-windows\Inventory.UX.pdb
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\bin\Debug\net8.0-windows\Inventory.Common.dll
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\bin\Debug\net8.0-windows\Inventory.Data.dll
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\bin\Debug\net8.0-windows\Inventory.Logic.dll
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\bin\Debug\net8.0-windows\Inventory.Common.pdb
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\bin\Debug\net8.0-windows\Inventory.Logic.pdb
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\bin\Debug\net8.0-windows\Inventory.Data.pdb
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\obj\Debug\net8.0-windows\Inventory.UX.csproj.AssemblyReference.cache
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\obj\Debug\net8.0-windows\Inventory.UX.Form1.resources
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\obj\Debug\net8.0-windows\Inventory.UX.csproj.GenerateResource.cache
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\obj\Debug\net8.0-windows\Inventory.UX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\obj\Debug\net8.0-windows\Inventory.UX.AssemblyInfoInputs.cache
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\obj\Debug\net8.0-windows\Inventory.UX.AssemblyInfo.cs
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\obj\Debug\net8.0-windows\Inventory.UX.csproj.CoreCompileInputs.cache
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\obj\Debug\net8.0-windows\Inventory.UX.sourcelink.json
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\obj\Debug\net8.0-windows\Inventor.1AF9E3F8.Up2Date
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\obj\Debug\net8.0-windows\Inventory.UX.dll
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\obj\Debug\net8.0-windows\refint\Inventory.UX.dll
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\obj\Debug\net8.0-windows\Inventory.UX.pdb
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\obj\Debug\net8.0-windows\Inventory.UX.genruntimeconfig.cache
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\obj\Debug\net8.0-windows\ref\Inventory.UX.dll

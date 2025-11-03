@@ -13,4 +13,8 @@
     <ProjectReference Include="..\Project.Logic\Inventory.Logic.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="TableForms\" />
+  </ItemGroup>
+
 </Project>

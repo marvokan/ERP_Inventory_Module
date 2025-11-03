@@ -80,6 +80,7 @@ drop table if exists PACKAGE_TYPE;
 create table STORE
 (
 	CID int not null
+	,STORE_LOC nvarchar(32) not null
 	,constraint PK_STORE primary key (CID)
 );
 go
