@@ -229,6 +229,7 @@ create table ITEM
 	,CODE nvarchar(32) not null
 	,MEASUREMENT_UNIT_CID int not null
 	,ITEM_CATEGORY_CID int not null
+	,BASE_PRICE float not null
 	,constraint PK_ITEM primary key (ID)
 	,constraint FK_ITEM_REF_MEASUREMENT_UNIT foreign key (MEASUREMENT_UNIT_CID) references MEASUREMENT_UNIT(CID)
 	,constraint FK_ITEM_REF_ITEM_CATEGORY foreign key (ITEM_CATEGORY_CID) references ITEM_CATEGORY(CID)
@@ -293,7 +294,11 @@ go
 create table ITEM_INV
 (
 	 ID				int not null identity
-	,STORE_CID int not null	 		 
+	,STORE_CID int not null
+	,STATUS int not null
+	,REMARKS nvarchar(128) null
+	,PERSON nvarchar(64) not null
+	,INV_DATETIME datetime2 not null
 	,constraint FK_ITEM_INV primary key(ID)
 	,constraint FK_ITEM_INV_REF_STORE foreign key (STORE_CID) references STORE(CID)	 	
 

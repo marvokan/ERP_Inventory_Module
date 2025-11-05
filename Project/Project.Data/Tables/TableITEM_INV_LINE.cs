@@ -31,9 +31,9 @@ namespace Inventory.Data.Tables
                             // Provide the insert statement that will be used for new records
                             @"
                                   insert into ITEM_INV_LINE
-                                    (ITEM_INV_ID, ITEM_ID, ITEM_PKG_ID,STORE_POS_CID,STORED_QTY,DEFICIT_SURPLUS)
+                                    (ITEM_INV_ID, ITEM_ID, ITEM_PKG_ID, STORE_POS_CID, REPORTED_QTY, ACTUAL_QTY, DEFICIT_SURPLUS, REMARKS)
                                   values
-                                    (@ITEM_INV_ID, @ITEM_ID, @ITEM_PKG_ID, @STORE_POS_CID, @STORED_QTY, @DEFICIT_SURPLUS)",
+                                    (@ITEM_INV_ID, @ITEM_ID, @ITEM_PKG_ID, @STORE_POS_CID, @REPORTED_QTY, @ACTUAL_QTY, @DEFICIT_SURPLUS, @REMARKS)",
 
                             // Provide the update statement that will be used for updated records
                             @"
@@ -42,8 +42,10 @@ namespace Inventory.Data.Tables
                                     ITEM_ID = @ITEM_ID,
                                     ITEM_PKG_ID = @ITEM_PKG_ID,
                                     STORE_POS_CID = @STORE_POS_CID,
-                                    STORED_QTY = @STORED_QTY,
-                                    DEFICIT_SURPLUS = @DEFICIT_SURPLUS                           
+                                    REPORTED_QTY = @REPORTED_QTY,
+                                    ACTUAL_QTY = @ACTUAL_QTY,
+                                    DEFICIT_SURPLUS = @DEFICIT_SURPLUS,
+                                    REMARKS = @REMARKS
                                   where 
                                     ID = @ID
                                 ",

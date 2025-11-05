@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\20220364\\documents\\github\\412project\\project\\project.logic\\entities\\citem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\entities\\citem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\20220364\\documents\\github\\412project\\project\\project.logic\\models\\citemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\models\\citemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\20220364\\documents\\github\\412project\\project\\project.logic\\models\\cbasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\models\\cbasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CItem.cs",
+              "DocumentMoniker": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Entities\\CItem.cs",
+              "RelativeDocumentMoniker": "Project.Logic\\Entities\\CItem.cs",
+              "ToolTip": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Entities\\CItem.cs",
+              "RelativeToolTip": "Project.Logic\\Entities\\CItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T18:20:09.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Models\\CItemModel.cs",
+              "RelativeDocumentMoniker": "Project.Logic\\Models\\CItemModel.cs",
+              "ToolTip": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Models\\CItemModel.cs",
+              "RelativeToolTip": "Project.Logic\\Models\\CItemModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T18:17:48.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CBaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Models\\CBaseModel.cs",
+              "RelativeDocumentMoniker": "Project.Logic\\Models\\CBaseModel.cs",
+              "ToolTip": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Models\\CBaseModel.cs",
+              "RelativeToolTip": "Project.Logic\\Models\\CBaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T18:16:19.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

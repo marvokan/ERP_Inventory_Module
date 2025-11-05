@@ -32,15 +32,17 @@ namespace Inventory.Data.Tables
                             // Provide the insert statement that will be used for new records
                             @"
                                   insert into ITEM_INV
-                                    (STORE_CID, INV_DATETIM, PERSON)
+                                    (STORE_CID, REMARKS, STATUS, INV_DATETIM, PERSON)
                                   values
-                                    (@STORE_CID, @INV_DATETIM, @PERSON)",
+                                    (@STORE_CID, @REMARKS, @STATUS, @INV_DATETIME, @PERSON)",
 
                             // Provide the update statement that will be used for updated records
                             @"
                                   update ITEM_INV set
                                     STORE_CID = @STORE_CID,
-                                    INV_DATETIM = @INV_DATETIM,
+                                    REMARKS = @REMARKS,
+                                    STATUS = @STATUS,
+                                    INV_DATETIME = @INV_DATETIME,
                                     PERSON = @PERSON
                                   where 
                                     ID = @ID
