@@ -547,10 +547,13 @@ create table ITEM_INV_LINE
 (
 	  ID int not null identity
 	 ,ITEM_INV_ID 	int not null
-	 ,ITEM_ID 		int null
-	 ,ITEM_PKG_ID 	int null
+	 ,ITEM_ID 		int not null
+	 ,ITEM_PKG_ID 	int not null
 	 ,STORE_POS_CID int not null
-	 ,STORED_QTY float not null
+	 ,REPORTED_QTY  float not null
+	 ,ACTUAL_QTY float not null
+	 ,DEFICIT_SURPLUS float not null
+	 ,REMARKS nvarchar(256) null
 	 ,constraint PK_ITEM_INV_LINE primary key (ID)
 	 ,constraint FK_ITEM_INV_REF_ITEM_INV foreign key (ITEM_INV_ID) references ITEM_INV(ID)
 	 ,constraint FK_ITEM_INV_REF_ITEM foreign key (ITEM_ID) references ITEM(ID)	 	 
