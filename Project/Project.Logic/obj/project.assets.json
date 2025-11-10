@@ -212,7 +212,7 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Inventory.Common": "1.0.0",
-          "Lib": "4.0.0"
+          "Lib": "4.1.0"
         },
         "compile": {
           "bin/placeholder/Inventory.Data.dll": {}
@@ -221,7 +221,7 @@
           "bin/placeholder/Inventory.Data.dll": {}
         }
       },
-      "Lib/4.0.0": {
+      "Lib/4.1.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
@@ -615,7 +615,7 @@
       "path": "../Project.Data/Inventory.Data.csproj",
       "msbuildProject": "../Project.Data/Inventory.Data.csproj"
     },
-    "Lib/4.0.0": {
+    "Lib/4.1.0": {
       "type": "project",
       "path": "../Lib/Lib.csproj",
       "msbuildProject": "../Lib/Lib.csproj"
@@ -625,7 +625,7 @@
     "net8.0": [
       "Inventory.Common >= 1.0.0",
       "Inventory.Data >= 1.0.0",
-      "Lib >= 4.0.0"
+      "Lib >= 4.1.0"
     ]
   },
   "packageFolders": {

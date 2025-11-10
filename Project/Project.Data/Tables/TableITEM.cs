@@ -33,16 +33,17 @@ namespace Inventory.Data.Tables
                             // Provide the insert statement that will be used for new records
                             @"
                                   insert into ITEM
-                                    (CODE, MEASUREMENT_UNIT_CID, ITEM_CATEGORY_CID)
+                                    (CODE, MEASUREMENT_UNIT_CID, ITEM_CATEGORY_CID, BASE_PRICE)
                                   values
-                                    (@CODE, @MEASUREMENT_UNIT_CID, @ITEM_CATEGORY_CID)",
+                                    (@CODE, @MEASUREMENT_UNIT_CID, @ITEM_CATEGORY_CID, @BASE_PRICE)",
 
                             // Provide the update statement that will be used for updated records
                             @"
                                   update ITEM set
                                     CODE = @CODE,
                                     MEASUREMENT_UNIT_CID = @MEASUREMENT_UNIT_CID,
-                                    ITEM_CATEGORY_CID = @ITEM_CATEGORY_CID
+                                    ITEM_CATEGORY_CID = @ITEM_CATEGORY_CID,
+                                    BASE_PRICE = @BASE_PRICE
                                   where 
                                     ID = @ID
                                 ",

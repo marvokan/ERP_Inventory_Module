@@ -207,7 +207,7 @@
           "bin/placeholder/Inventory.Common.dll": {}
         }
       },
-      "Lib/4.0.0": {
+      "Lib/4.1.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
@@ -596,7 +596,7 @@
       "path": "../Inventory.Common/Inventory.Common.csproj",
       "msbuildProject": "../Inventory.Common/Inventory.Common.csproj"
     },
-    "Lib/4.0.0": {
+    "Lib/4.1.0": {
       "type": "project",
       "path": "../Lib/Lib.csproj",
       "msbuildProject": "../Lib/Lib.csproj"
@@ -605,7 +605,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Inventory.Common >= 1.0.0",
-      "Lib >= 4.0.0"
+      "Lib >= 4.1.0"
     ]
   },
   "packageFolders": {

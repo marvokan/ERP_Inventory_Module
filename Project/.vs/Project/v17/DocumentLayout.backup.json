@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\20220364\\documents\\github\\412project\\project\\project.logic\\cbasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\cbasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\20220364\\documents\\github\\412project\\project\\project.logic\\cmastermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\cmastermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\20220364\\documents\\github\\412project\\project\\project.logic\\ctablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\ctablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\20220364\\documents\\github\\412project\\project\\project.logic\\entities\\cstore_pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\entities\\cstore_pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\20220364\\documents\\github\\412project\\project\\project.logic\\entities\\citem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\entities\\citem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +27,52 @@
       "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\models\\citemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\20220364\\documents\\github\\412project\\project\\project.logic\\models\\cbasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\models\\cbasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|c:\\users\\20220364\\documents\\github\\412project\\project\\project.data\\tables\\viewinventories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|solutionrelative:project.data\\tables\\viewinventories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|c:\\users\\20220364\\documents\\github\\412project\\project\\project.data\\records\\v_inventories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|solutionrelative:project.data\\records\\v_inventories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|c:\\users\\20220364\\documents\\github\\412project\\project\\project.data\\records\\item_inv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|solutionrelative:project.data\\records\\item_inv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|c:\\users\\20220364\\documents\\github\\412project\\project\\project.data\\tables\\tableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|solutionrelative:project.data\\tables\\tableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|c:\\users\\20220364\\documents\\github\\412project\\project\\project.data\\records\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|solutionrelative:project.data\\records\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|c:\\users\\20220364\\documents\\github\\412project\\project\\project.data\\records\\item_inv_line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|solutionrelative:project.data\\records\\item_inv_line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|c:\\users\\20220364\\documents\\github\\412project\\project\\project.data\\records\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|solutionrelative:project.data\\records\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FADA9-998A-4E46-B040-B666814B56B3}|Inventory.Common\\Inventory.Common.csproj|c:\\users\\20220364\\documents\\github\\412project\\project\\inventory.common\\csettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FADA9-998A-4E46-B040-B666814B56B3}|Inventory.Common\\Inventory.Common.csproj|solutionrelative:inventory.common\\csettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\20220364\\documents\\github\\412project\\project\\project.logic\\entities\\cstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\entities\\cstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\20220364\\documents\\github\\412project\\project\\project.logic\\entities\\citem_inv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\entities\\citem_inv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\20220364\\documents\\github\\412project\\project\\project.logic\\entities\\citem_inv_line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\entities\\citem_inv_line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|c:\\users\\20220364\\documents\\github\\412project\\project\\project.data\\tables\\tableitem_pkg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|solutionrelative:project.data\\tables\\tableitem_pkg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +87,234 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CBaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\CBaseModel.cs",
+              "RelativeDocumentMoniker": "Project.Logic\\CBaseModel.cs",
+              "ToolTip": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\CBaseModel.cs",
+              "RelativeToolTip": "Project.Logic\\CBaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:40:17.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CItem.cs",
               "DocumentMoniker": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Entities\\CItem.cs",
               "RelativeDocumentMoniker": "Project.Logic\\Entities\\CItem.cs",
               "ToolTip": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Entities\\CItem.cs",
               "RelativeToolTip": "Project.Logic\\Entities\\CItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T18:20:09.463Z",
+              "WhenOpened": "2025-11-10T15:37:48.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "CItemModel.cs",
               "DocumentMoniker": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Models\\CItemModel.cs",
               "RelativeDocumentMoniker": "Project.Logic\\Models\\CItemModel.cs",
               "ToolTip": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Models\\CItemModel.cs",
               "RelativeToolTip": "Project.Logic\\Models\\CItemModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T18:17:48.82Z",
+              "WhenOpened": "2025-11-10T15:37:14.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CBaseModel.cs",
-              "DocumentMoniker": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Models\\CBaseModel.cs",
-              "RelativeDocumentMoniker": "Project.Logic\\Models\\CBaseModel.cs",
-              "ToolTip": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Models\\CBaseModel.cs",
-              "RelativeToolTip": "Project.Logic\\Models\\CBaseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Title": "CTableModel.cs",
+              "DocumentMoniker": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\CTableModel.cs",
+              "RelativeDocumentMoniker": "Project.Logic\\CTableModel.cs",
+              "ToolTip": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\CTableModel.cs",
+              "RelativeToolTip": "Project.Logic\\CTableModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T18:16:19.086Z",
+              "WhenOpened": "2025-11-10T15:36:10.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CMasterModel.cs",
+              "DocumentMoniker": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\CMasterModel.cs",
+              "RelativeDocumentMoniker": "Project.Logic\\CMasterModel.cs",
+              "ToolTip": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\CMasterModel.cs",
+              "RelativeToolTip": "Project.Logic\\CMasterModel.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:33:34.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "V_INVENTORIES.cs",
+              "DocumentMoniker": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Data\\Records\\V_INVENTORIES.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Records\\V_INVENTORIES.cs",
+              "ToolTip": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Data\\Records\\V_INVENTORIES.cs",
+              "RelativeToolTip": "Project.Data\\Records\\V_INVENTORIES.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:26:00.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewINVENTORIES.cs",
+              "DocumentMoniker": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Data\\Tables\\ViewINVENTORIES.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Tables\\ViewINVENTORIES.cs",
+              "ToolTip": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Data\\Tables\\ViewINVENTORIES.cs",
+              "RelativeToolTip": "Project.Data\\Tables\\ViewINVENTORIES.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:25:05.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TableITEM.cs",
+              "DocumentMoniker": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Data\\Tables\\TableITEM.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Tables\\TableITEM.cs",
+              "ToolTip": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Data\\Tables\\TableITEM.cs",
+              "RelativeToolTip": "Project.Data\\Tables\\TableITEM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:14:21.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITEM.cs",
+              "DocumentMoniker": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Data\\Records\\ITEM.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Records\\ITEM.cs",
+              "ToolTip": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Data\\Records\\ITEM.cs",
+              "RelativeToolTip": "Project.Data\\Records\\ITEM.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA/wBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:13:32.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "STORE.cs",
+              "DocumentMoniker": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Data\\Records\\STORE.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Records\\STORE.cs",
+              "ToolTip": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Data\\Records\\STORE.cs",
+              "RelativeToolTip": "Project.Data\\Records\\STORE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:01:41.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CStore_Pos.cs",
+              "DocumentMoniker": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Entities\\CStore_Pos.cs",
+              "RelativeDocumentMoniker": "Project.Logic\\Entities\\CStore_Pos.cs",
+              "ToolTip": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Entities\\CStore_Pos.cs",
+              "RelativeToolTip": "Project.Logic\\Entities\\CStore_Pos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T14:59:18.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CStore.cs",
+              "DocumentMoniker": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Entities\\CStore.cs",
+              "RelativeDocumentMoniker": "Project.Logic\\Entities\\CStore.cs",
+              "ToolTip": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Entities\\CStore.cs",
+              "RelativeToolTip": "Project.Logic\\Entities\\CStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T14:59:03.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CItem_Inv.cs",
+              "DocumentMoniker": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Entities\\CItem_Inv.cs",
+              "RelativeDocumentMoniker": "Project.Logic\\Entities\\CItem_Inv.cs",
+              "ToolTip": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Entities\\CItem_Inv.cs",
+              "RelativeToolTip": "Project.Logic\\Entities\\CItem_Inv.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T14:56:39.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CSettings.cs",
+              "DocumentMoniker": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Inventory.Common\\CSettings.cs",
+              "RelativeDocumentMoniker": "Inventory.Common\\CSettings.cs",
+              "ToolTip": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Inventory.Common\\CSettings.cs",
+              "RelativeToolTip": "Inventory.Common\\CSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T14:39:19.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITEM_INV_LINE.cs",
+              "DocumentMoniker": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Data\\Records\\ITEM_INV_LINE.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Records\\ITEM_INV_LINE.cs",
+              "ToolTip": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Data\\Records\\ITEM_INV_LINE.cs",
+              "RelativeToolTip": "Project.Data\\Records\\ITEM_INV_LINE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:24:50.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITEM_INV.cs",
+              "DocumentMoniker": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Data\\Records\\ITEM_INV.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Records\\ITEM_INV.cs",
+              "ToolTip": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Data\\Records\\ITEM_INV.cs",
+              "RelativeToolTip": "Project.Data\\Records\\ITEM_INV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T14:31:38.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TableITEM_PKG.cs",
+              "DocumentMoniker": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Data\\Tables\\TableITEM_PKG.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Tables\\TableITEM_PKG.cs",
+              "ToolTip": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Data\\Tables\\TableITEM_PKG.cs",
+              "RelativeToolTip": "Project.Data\\Tables\\TableITEM_PKG.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:23:45.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CItem_Inv_Line.cs",
+              "DocumentMoniker": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Entities\\CItem_Inv_Line.cs",
+              "RelativeDocumentMoniker": "Project.Logic\\Entities\\CItem_Inv_Line.cs",
+              "ToolTip": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Entities\\CItem_Inv_Line.cs",
+              "RelativeToolTip": "Project.Logic\\Entities\\CItem_Inv_Line.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvx0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:19:17.474Z",
               "EditorCaption": ""
             }
           ]

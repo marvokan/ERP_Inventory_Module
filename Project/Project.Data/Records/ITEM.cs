@@ -19,5 +19,7 @@ namespace Inventory.Data.Records
 
         public int ITEM_CATEGORY_CID { get; set; }
 
+        public float BASE_PRICE { get; set; }
+
     }
 }
