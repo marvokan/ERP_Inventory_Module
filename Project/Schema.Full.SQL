@@ -227,6 +227,7 @@ create table ITEM
 (
 	 ID int not null identity
 	,CODE nvarchar(32) not null
+	,DESCRIPTION NVARCHAR2(256) not null
 	,MEASUREMENT_UNIT_CID int not null
 	,ITEM_CATEGORY_CID int not null
 	,BASE_PRICE float not null

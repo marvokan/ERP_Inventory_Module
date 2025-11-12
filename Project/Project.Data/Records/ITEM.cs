@@ -15,6 +15,8 @@ namespace Inventory.Data.Records
 
         public string CODE { get; set; }
 
+        public string DESCRIPTION { get; set; }
+
         public int MEASUREMENT_UNIT_CID { get; set; }
 
         public int ITEM_CATEGORY_CID { get; set; }
