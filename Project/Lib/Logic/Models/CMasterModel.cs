@@ -1,5 +1,4 @@
-﻿//using Inventory.Logic.Entities;
-//using Inventory.Logic;
+﻿using Lib.Data;
 using Lib.Logic;
 using System;
 using System.Collections.Generic;
@@ -8,20 +7,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Inventory.Logic
+namespace Lib.Logic.Models
 {
-    public class CMasterModel<M, D> : CBaseModel<M> where M : IEntity, new() where D : IEntity, new()
+    public class CMasterModel<M, D> : CBaseModel<M> where M : IEntity, new() where D: IEntity, new()
     {
         // ....................................................................
-        public M MasterEntity
-        {
-            get
-            {
-                if (this.Count == 0)
-                    return default(M)!;
-                else
-                    return this[0];
-            }
+        public M MasterEntity 
+        {   get 
+            {   if (this.Count == 0) 
+                    return default(M)!; 
+                else 
+                    return this[0]; 
+            } 
         }
         // ....................................................................
         public CBaseModel<D> DetailsModel { get; set; } = null!;
@@ -31,7 +28,7 @@ namespace Inventory.Logic
 
 
         // ------------------------------------------------------------------
-        public CMasterModel(String TableName) : base(TableName)
+        public CMasterModel(String p_sTableName) : base(p_sTableName)
         {
         }
         // ------------------------------------------------------------------
@@ -71,7 +68,7 @@ namespace Inventory.Logic
                     if (this.MasterEntity.Change != EntityChangeType.DELETED)
                         this.Table.SaveTable(iTransaction);
 
-
+                    
                     this.MasterKey = this.MasterEntity.PrimaryKeyValue;
                     foreach (IEntity oDetail in this.DetailsModel)
                         oDetail.ForeignKeyOfMasterValue = this.MasterKey;

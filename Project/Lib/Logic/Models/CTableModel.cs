@@ -1,4 +1,5 @@
-﻿using Lib.Logic;
+﻿using Lib.Data;
+using Lib.Logic;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -6,12 +7,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Inventory.Logic
+namespace Lib.Logic.Models
 {
     public class CTableModel<T> : CBaseModel<T> where T : IEntity, new()
     {
         // ------------------------------------------------------------------
-        public CTableModel(string TableName) : base(TableName)
+        public CTableModel(String p_sTableName) : base(p_sTableName)
         {
         }
         // ------------------------------------------------------------------

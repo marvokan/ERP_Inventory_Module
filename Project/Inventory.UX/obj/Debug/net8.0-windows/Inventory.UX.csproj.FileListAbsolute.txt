@@ -48,3 +48,6 @@ C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\obj\Debug\net
 C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\obj\Debug\net8.0-windows\Inventory.UX.pdb
 C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\obj\Debug\net8.0-windows\Inventory.UX.genruntimeconfig.cache
 C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\obj\Debug\net8.0-windows\ref\Inventory.UX.dll
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\obj\Debug\net8.0-windows\Lib.UX.CFormTemplateMaster.resources
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\obj\Debug\net8.0-windows\Lib.UX.CFormTemplateTable.resources
+C:\Users\20220364\Documents\GitHub\412Project\Project\Inventory.UX\obj\Debug\net8.0-windows\Inventory.UX.Views.CViewBrowserItem_Inv.resources

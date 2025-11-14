@@ -15,6 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lib", "Lib\Lib.csproj", "{2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lib.UX", "Lib.UX\Lib.UX.csproj", "{99737AEA-1D0E-4AED-ABED-066F2F77DCD9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TempStore", "TempStore", "{367F0429-335E-43E7-981E-25A241AFE689}"
+	ProjectSection(SolutionItems) = preProject
+		Project.Logic\CBaseModel.cs = Project.Logic\CBaseModel.cs
+		Project.Logic\CMasterModel.cs = Project.Logic\CMasterModel.cs
+		Project.Logic\CTableModel.cs = Project.Logic\CTableModel.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

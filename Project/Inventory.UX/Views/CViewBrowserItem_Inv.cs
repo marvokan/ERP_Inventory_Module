@@ -1,0 +1,121 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using Inventory.Logic.Models;
+using Lib.Logic;
+using Lib.UX.DataForms;
+using Lib.UX.Controls;
+using Lib.UX;
+
+namespace Inventory.UX.Views
+{
+
+    public partial class CViewBrowserItem_Inv : Form, IBrowserViewForm
+    {
+
+        protected CItem_Inv_BrowserModel browserModel;
+        protected CFormTemplateMaster parent;
+        public CViewBrowserItem_Inv()
+        {
+            InitializeComponent();
+        }
+
+        public bool HasSelectedInBrowser
+        {
+            get
+            {
+                bool bResult = false;
+                if (lstBrowser.SelectedItem != null)
+                {
+                    IEntity? oCurrentEntity = lstBrowser.SelectedItem as IEntity;
+                    if (oCurrentEntity != null)
+                        bResult = oCurrentEntity.PrimaryKeyValue > 0;
+                }
+                return bResult;
+            }
+        }
+        public IEntity? SelectedEntity { get { return lstBrowser.SelectedItem as IEntity; } }
+
+        public CViewBrowserItem_Inv(CItem_Inv_BrowserModel p_oBrowserModel)
+        {
+            InitializeComponent();
+            this.browserModel = p_oBrowserModel;
+        }
+        public void SetParent(Form p_oForm)
+        {
+            this.parent = (CFormTemplateMaster)p_oForm;
+        }
+
+
+
+
+
+        public void Display(Control p_oContainer)
+        {
+            p_oContainer.DisplayView(this);
+        }
+
+
+
+        public void WriteBrowserListToUI()
+        {
+            this.lstBrowser.DataSource = null;
+            this.lstBrowser.DataSource = this.browserModel;
+        }
+
+        private void FindByStoreName()
+        {
+            string sSearchStr = this.txtSearch.Text;
+
+            // [C#/LINQ] This is an example of runing a SELECT query a generic list with a specific WHERE clause.
+            var oFound = this.browserModel.Where(x => x.StoreLocation.ToLower().Contains(sSearchStr.ToLower())).ToList();
+            if (oFound.Count > 0)
+                this.lstBrowser.SelectedItem = oFound[0];
+        }
+
+        private void DoOnAnyCommand(object sender, EventArgs e)
+        {
+            if (sender == btnFind)
+                FindByStoreName();
+            else if (sender == lstBrowser)
+                // Trigger an open event on the parent form context, to switch to the entity view
+                this.parent.FormContext.HandleEvent(this.parent.FormContext.Open);
+        }
+
+        private void DoOnAnyKeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == (char)Keys.Enter)
+            {
+                if (sender == txtSearch)
+                {
+                    FindByStoreName();
+                    this.lstBrowser.Focus();
+                    this.lstBrowser.Select();
+                    e.Handled = true;
+                }
+                else if (sender == lstBrowser)
+                {
+                    // Trigger an open event on the parent form context, to switch to the entity view
+                    this.parent.FormContext.HandleEvent(this.parent.FormContext.Open);
+                    e.Handled = true;
+                }
+            }
+        }
+
+        private void lblSearch_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnFind_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+}

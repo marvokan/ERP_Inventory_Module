@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Inventory.Common\Inventory.Common.csproj" />
+    <ProjectReference Include="..\Lib.UX\Lib.UX.csproj" />
     <ProjectReference Include="..\Project.Logic\Inventory.Logic.csproj" />
   </ItemGroup>
 

@@ -2,27 +2,33 @@
 using Lib.Data;
 using Lib.Logic;
 using Lib.Logic.Visitors;
-using Inventory.Data; // Only depends on the data table factory and does not need to know the specific record classes
 
 
-namespace Inventory.Logic
+namespace Lib.Logic.Models
 {
-    public class CBaseModel<T> : List<T>, IModel where T : IEntity, new()
+    public class CBaseModel<T>: List<T>, IModel where T: IEntity, new()
     {
         // ...........................................................
+        private string _tableName = "";
+        public String TableName { get { return _tableName; } }
+        // ...........................................................
         protected IDBTable table;
-        public IDBTable Table { get { return table; } }
+        public IDBTable Table 
+        {   get { return table; } 
+            set { table = value; 
+                  if (table == null)                      
+                    throw new Exception($"Class for table identifier {_tableName} is not registered with the data tier factory");	
+                } 
+        }
         // ...........................................................
         protected string lastError = String.Empty;
         public string LastError { get { return lastError; } }
         // ...........................................................
 
         // ------------------------------------------------------------------
-        public CBaseModel(String TableName)
+        public CBaseModel(String p_sTableName)
         {
-            this.table = CDataTableFactory.Instance.Produce(TableName)!; // [C#] The ! is the null-forgiving operator 
-            if (this.table == null)
-                throw new Exception($"Class for table identifier {TableName} is not registered with the data tier factory");
+            _tableName = p_sTableName;
         }
         // ------------------------------------------------------------------
         public void Empty()

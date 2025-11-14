@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("(c) 2024 Pantelis I. Kaplanoglou")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("4.1.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("4.1.0+af4e0d647606b96acd5aedc31920637c7e7bfa1f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("4.1.0+aebae7d0ce9f16db65325ca0d50e69354bc29eb3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("4.1.0.0")]
