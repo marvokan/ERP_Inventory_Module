@@ -14,7 +14,7 @@ namespace Inventory.Data.Tables
 {
     public class ViewINVENTORIES : CDBTable<V_INVENTORIES>
     {
-        public ViewINVENTORIES() : base("ApplicationUsersView")
+        public ViewINVENTORIES() : base("ViewInventories")
         {
         }
         // --------------------------------------------------------------------------------------

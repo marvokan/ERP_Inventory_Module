@@ -15,12 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lib", "Lib\Lib.csproj", "{2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lib.UX", "Lib.UX\Lib.UX.csproj", "{99737AEA-1D0E-4AED-ABED-066F2F77DCD9}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TempStore", "TempStore", "{367F0429-335E-43E7-981E-25A241AFE689}"
-	ProjectSection(SolutionItems) = preProject
-		Project.Logic\CBaseModel.cs = Project.Logic\CBaseModel.cs
-		Project.Logic\CMasterModel.cs = Project.Logic\CMasterModel.cs
-		Project.Logic\CTableModel.cs = Project.Logic\CTableModel.cs
-	EndProjectSection
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WindowsApp", "WindowsApp\WindowsApp.csproj", "{78D2DDC9-EF4A-47A6-90A3-5ACFAB3C34F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -52,6 +47,10 @@ Global
 		{99737AEA-1D0E-4AED-ABED-066F2F77DCD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99737AEA-1D0E-4AED-ABED-066F2F77DCD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99737AEA-1D0E-4AED-ABED-066F2F77DCD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78D2DDC9-EF4A-47A6-90A3-5ACFAB3C34F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D2DDC9-EF4A-47A6-90A3-5ACFAB3C34F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78D2DDC9-EF4A-47A6-90A3-5ACFAB3C34F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D2DDC9-EF4A-47A6-90A3-5ACFAB3C34F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

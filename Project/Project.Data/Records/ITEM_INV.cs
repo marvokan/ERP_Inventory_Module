@@ -19,7 +19,7 @@ namespace Inventory.Data.Records
 
         public int STATUS { get; set; }
 
-        public DateTime INV_DATETIME { get; set; }
+        public DateTime? INV_DATETIME { get; set; }
 
         public string PERSON { get; set; }
 

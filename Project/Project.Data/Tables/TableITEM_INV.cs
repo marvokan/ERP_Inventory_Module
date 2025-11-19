@@ -3,6 +3,7 @@ using Lib.Data.Records;
 using System;
 using System.Collections.Generic;
 using System.Data;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -11,16 +12,58 @@ namespace Inventory.Data.Tables
 {
     public class TableITEM_INV : CDBTable<ITEM_INV>
     {
-        public TableITEM_INV(string p_sTableName) : base(p_sTableName)
+
+                public TableITEM_INV() : base("Item_Inv")
         {
+        }
+
+        public override void LoadRecord(int p_nKeyValue)
+        {
+            this.records.Clear(); // Empty the existing records
+
+            // We create an object to hold the ID parameter for the select statement
+            ITEM_INV? oParams = new ITEM_INV();
+            oParams.ID = p_nKeyValue;
+
+
+            using (var iTransaction = this.DB.BeginTransaction())
+            {
+                try
+                {
+                    var oRecords = this.DB.SelectWithParams<ITEM_INV>(
+                            "select * from ZAPPUSER where ID = @ID", oParams, iTransaction);
+                    iTransaction.Commit();
+
+                    // When a select returns no records a null object might be returned by the method
+                    if (oRecords != null)
+                    {
+                        this.records = oRecords;
+
+                        foreach (var oRecord in this.records)
+                            Debug.WriteLine(oRecord.ToString());
+                    }
+                }
+                catch
+                {
+                    iTransaction.Rollback();
+                    throw;
+                }
+            }
         }
 
         public override void LoadTable(IDbTransaction? p_iTransaction)
         {
-            var oRecords = this.DB.Select<ITEM_INV>("select * from ITEM_INV", p_iTransaction);
+
             this.records.Clear();
+            var oRecords = this.DB.Select<ITEM_INV>("select * from ITEM_INV", p_iTransaction);
+
             if (oRecords != null)
+            {
                 this.records = oRecords;
+
+                foreach (var oRecord in this.records)
+                    Debug.WriteLine(oRecord.ToString());
+            }
         }
 
         public override void SaveTable(IDbTransaction? p_iTransaction)
@@ -32,7 +75,7 @@ namespace Inventory.Data.Tables
                             // Provide the insert statement that will be used for new records
                             @"
                                   insert into ITEM_INV
-                                    (STORE_CID, REMARKS, STATUS, INV_DATETIM, PERSON)
+                                    (STORE_CID, REMARKS, STATUS, INV_DATETIME, PERSON)
                                   values
                                     (@STORE_CID, @REMARKS, @STATUS, @INV_DATETIME, @PERSON)",
 

@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel;
 
 namespace Inventory.Logic.Entities
 {
@@ -15,7 +16,8 @@ namespace Inventory.Logic.Entities
         public int Id => this.Record.ID;
         public string Code { get => this.Record.CODE; set => this.Record.CODE = value; }
 
-        public string DESCRIPTION { get => this.Record.DESCRIPTION; set => this.Record.DESCRIPTION = value; }
+        [DisplayName("Description")]
+        public string Description { get => this.Record.DESCRIPTION; set => this.Record.DESCRIPTION = value; }
 
         public int Measurement_Unit_Cid { get => this.Record.MEASUREMENT_UNIT_CID; set => this.Record.MEASUREMENT_UNIT_CID = value; }
 

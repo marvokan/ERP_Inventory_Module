@@ -8,11 +8,10 @@ using Lib.Logic.Models;
 
 namespace Inventory.Logic.Models
 {
-    internal class CItem_PkgModel : CBaseModel<CItem_Pkg>
+    public class CItem_PkgModel : CBaseModel<CItem_Pkg>
     {
-        public CItem_PkgModel() : base("ITEM_PKG")
+        public CItem_PkgModel() : base("ItemPkg")
         {
         }
     }
-}
 }

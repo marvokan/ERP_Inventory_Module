@@ -3,6 +3,7 @@ using Lib.Data.Records;
 using System;
 using System.Collections.Generic;
 using System.Data;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -11,15 +12,36 @@ namespace Inventory.Data.Tables
 {
     public class TableITEM_INV_LINE : CDBTable<ITEM_INV_LINE>
     {
-        public TableITEM_INV_LINE(string p_sTableName) : base(p_sTableName)
+
+        public int MasterID { get; set; }
+
+        public TableITEM_INV_LINE() : base("Item_Inv_Line")
         {
         }
+        
+        public override void LoadTable(IDbTransaction? p_iTransaction, int p_nMasterKeyValue)
+        {
+            this.MasterID = p_nMasterKeyValue;
+            this.LoadTable(p_iTransaction);
+        }
+
         public override void LoadTable(IDbTransaction? p_iTransaction)
         {
-            var oRecords = this.DB.Select<ITEM_INV_LINE>("select * from ITEM_INV_LINE", p_iTransaction);
-            this.records.Clear();
+            this.records.Clear(); // Empty the existing records
+                                  // We create an object to hold the ID parameter for the select statement
+            ITEM_INV_LINE? oParams = new ITEM_INV_LINE();
+            oParams.ITEM_INV_ID = this.MasterID;
+            var oRecords = this.DB.SelectWithParams<ITEM_INV_LINE>(
+                    "select * from ITEM_INV_LINE where ITEM_INV_ID = @ITEM_INV_ID", oParams, p_iTransaction);
+
+            // When a select returns no records a null object might be returned by the method
             if (oRecords != null)
+            {
                 this.records = oRecords;
+
+                foreach (var oRecord in this.records)
+                    Debug.WriteLine(oRecord.ToString());
+            }
         }
 
         public override void SaveTable(IDbTransaction? p_iTransaction)

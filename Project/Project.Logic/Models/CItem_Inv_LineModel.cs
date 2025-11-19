@@ -10,7 +10,7 @@ namespace Inventory.Logic.Models
 {
     public class CItem_Inv_LineModel : CBaseModel<CItem_Inv_Line>
     {
-        public CItem_Inv_LineModel() : base("ITEM_INV_LINE")
+        public CItem_Inv_LineModel() : base("ItemInvLine")
         {
         }
     }

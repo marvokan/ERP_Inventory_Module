@@ -21,7 +21,9 @@ C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\bin\Debug\ne
 C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\bin\Debug\net8.0\Inventory.Logic.pdb
 C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\bin\Debug\net8.0\Inventory.Common.dll
 C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\bin\Debug\net8.0\Inventory.Data.dll
+C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\bin\Debug\net8.0\Lib.dll
 C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\bin\Debug\net8.0\Inventory.Common.pdb
+C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\bin\Debug\net8.0\Lib.pdb
 C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\bin\Debug\net8.0\Inventory.Data.pdb
 C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\obj\Debug\net8.0\Inventory.Logic.csproj.AssemblyReference.cache
 C:\Users\20220364\Documents\GitHub\412Project\Project\Project.Logic\obj\Debug\net8.0\Inventory.Logic.GeneratedMSBuildEditorConfig.editorconfig

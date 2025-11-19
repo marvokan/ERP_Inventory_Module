@@ -10,7 +10,7 @@ namespace Inventory.Logic.Models
 {
     public class CStore_Pos_Model : CBaseModel<CStore>
     {
-        public CStore_Pos_Model() : base("STORE_POS")
+        public CStore_Pos_Model() : base("StorePos")
         {
         }
     }

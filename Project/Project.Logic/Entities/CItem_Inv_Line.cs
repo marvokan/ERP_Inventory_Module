@@ -25,7 +25,8 @@ namespace Inventory.Logic.Entities
 
         //public int ITEM_ID { get => this.Record.ITEM_ID; set => this.Record.ITEM_ID = value; }
 
-        public int? ITEM_ID
+        [ColumnWidth(30)]
+        public int? Item_Id
         {
             get
             {
@@ -38,13 +39,13 @@ namespace Inventory.Logic.Entities
             {
                 if (value != null)
                     this.Record.ITEM_ID = value ?? -1;
-                this.InvokePropertyChanged(nameof(ITEM_ID));
+                this.InvokePropertyChanged(nameof(Item_Id));
             }
         }
 
         public void LookupItem(List<CItem> p_oItems)
         {
-            var oFound = p_oItems.Where(x => x.Id == this.ITEM_ID).ToList();
+            var oFound = p_oItems.Where(x => x.Id == this.Item_Id).ToList();
             if (oFound.Count > 0)
                 this.Item = oFound[0];
             else
@@ -64,7 +65,7 @@ namespace Inventory.Logic.Entities
                 if (this.Item == null)
                     return "";
                 else
-                    return this.Item.DESCRIPTION;
+                    return this.Item.Description;
             }
         }
 

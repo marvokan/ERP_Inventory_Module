@@ -66,9 +66,9 @@ namespace Inventory.Common
             // when a nullable field/property/local variable contains null
 
             this.DBServerURL = p_oSettings?.DBServerURL ?? "mssql-203334-0.cloudclusters.net,10033";
-            this.DBName = p_oSettings?.DBName ?? "ERP";
-            this.DBUser = p_oSettings?.DBUser ?? "dev";
-            this.DBPassword = p_oSettings?.DBPassword ?? "CS412#fall25";
+            this.DBName = p_oSettings?.DBName ?? "DB_20220364";
+            this.DBUser = p_oSettings?.DBUser ?? "20220364";
+            this.DBPassword = p_oSettings?.DBPassword ?? "A@white$1821";
         }
         // -------------------------------------------------------------------------------------------
         // Go back p_nStepsBack folders from the folder from which the executable runs

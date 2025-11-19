@@ -56,7 +56,7 @@
             lblSearch.Size = new Size(83, 15);
             lblSearch.TabIndex = 0;
             lblSearch.Text = "Store Location";
-            lblSearch.Click += lblSearch_Click;
+            //lblSearch.Click += lblSearch_Click;
             // 
             // pnlTop
             // 
@@ -83,7 +83,7 @@
             btnFind.TabIndex = 1;
             btnFind.Text = "Search";
             btnFind.UseVisualStyleBackColor = true;
-            btnFind.Click += btnFind_Click;
+            //btnFind.Click += btnFind_Click;
             // 
             // CViewBrowserItem_Inv
             // 

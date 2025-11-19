@@ -15,7 +15,21 @@ namespace Inventory.Logic.Entities
         public int Id => this.Record.ID;
         public int STORE_CID { get => this.Record.STORE_CID; set => this.Record.STORE_CID = value; }
 
-        public DateTime INV_DATETIME { get => this.Record.INV_DATETIME; set => this.Record.INV_DATETIME = value; }
+        public int Status { get; set; }
+
+        public string StatusDesc { get; set; }
+
+        public void LookUpStatus(List<CStatus> p_oStatuses)
+        {
+            var oFound = p_oStatuses.Where(x => x.ID == this.Status).ToList();
+            if (oFound.Count > 0)
+                this.StatusDesc = oFound[0].Name;
+            else
+                this.StatusDesc = "";
+        }
+
+
+        public DateTime? INV_DATETIME { get => this.Record.INV_DATETIME; set => this.Record.INV_DATETIME = value; }
 
         public string PERSON { get => this.Record.PERSON; set => this.Record.PERSON = value; }
     }

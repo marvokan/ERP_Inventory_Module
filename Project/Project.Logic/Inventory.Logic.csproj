@@ -12,8 +12,4 @@
     <ProjectReference Include="..\Project.Data\Inventory.Data.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Modules\" />
-  </ItemGroup>
-
 </Project>

@@ -19,12 +19,12 @@ namespace Inventory.UX.Views
     public partial class CViewBrowserItem_Inv : Form, IBrowserViewForm
     {
 
-        protected CItem_Inv_BrowserModel browserModel;
-        protected CFormTemplateMaster parent;
-        public CViewBrowserItem_Inv()
-        {
-            InitializeComponent();
-        }
+        protected CItem_Inv_BrowserModel browserModel = null!;
+        protected CFormTemplateMaster parent = null!;
+        //public CViewBrowserItem_Inv()
+        //{
+        //    InitializeComponent();
+        //}
 
         public bool HasSelectedInBrowser
         {
@@ -52,6 +52,7 @@ namespace Inventory.UX.Views
             this.parent = (CFormTemplateMaster)p_oForm;
         }
 
+        
 
 
 
@@ -108,14 +109,14 @@ namespace Inventory.UX.Views
             }
         }
 
-        private void lblSearch_Click(object sender, EventArgs e)
-        {
+        //private void lblSearch_Click(object sender, EventArgs e)
+        //{
 
-        }
+        //}
 
-        private void btnFind_Click(object sender, EventArgs e)
-        {
+        //private void btnFind_Click(object sender, EventArgs e)
+        //{
 
-        }
+        //}
     }
 }

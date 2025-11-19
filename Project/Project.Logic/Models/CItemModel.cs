@@ -5,13 +5,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Lib.Logic.Models;
+using Inventory.Data;
 
 namespace Inventory.Logic.Models
 {
-    public class CItemModel : CBaseModel<CItem>
+    public class CItemModel : CTableModel<CItem>
     {
-        public CItemModel() : base("ITEM")
+        public CItemModel() : base("Item")
         {
+            this.Table = CDataTableFactory.Instance.Produce(this.TableName)!;
         }
     }
 }

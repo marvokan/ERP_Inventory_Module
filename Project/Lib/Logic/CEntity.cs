@@ -102,7 +102,7 @@ namespace Lib.Logic
                 var oKeyAttrib = oProperty.GetCustomAttribute<ForeignKeyAttribute>();
                 if (oKeyAttrib != null)
                 {
-                    if (oKeyAttrib.Name == "Master")
+                    if ((oKeyAttrib.Name == "Master") || (oKeyAttrib.Name == "MasterTable"))
                     {
                         oProperty.SetValue(this, p_nValue); 
                         break;
