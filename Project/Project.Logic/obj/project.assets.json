@@ -635,11 +635,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj",
+      "projectUniqueName": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj",
       "projectName": "Inventory.Logic",
-      "projectPath": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj",
+      "projectPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj",
       "packagesPath": "C:\\Users\\20220364\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\obj\\",
+      "outputPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Project.Logic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -661,14 +661,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj": {
-              "projectPath": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj"
+            "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj": {
+              "projectPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj"
             },
-            "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Lib\\Lib.csproj": {
-              "projectPath": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Lib\\Lib.csproj"
+            "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Lib\\Lib.csproj": {
+              "projectPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Lib\\Lib.csproj"
             },
-            "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Data\\Inventory.Data.csproj": {
-              "projectPath": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Data\\Inventory.Data.csproj"
+            "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Project.Data\\Inventory.Data.csproj": {
+              "projectPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Project.Data\\Inventory.Data.csproj"
             }
           }
         }

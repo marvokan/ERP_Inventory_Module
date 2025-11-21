@@ -60,10 +60,11 @@
             // gridRecords
             // 
             gridRecords.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            gridRecords.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
+            gridRecords.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells;
             gridRecords.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             gridRecords.Location = new Point(12, 12);
             gridRecords.Name = "gridRecords";
-            gridRecords.RowTemplate.Height = 25;
             gridRecords.Size = new Size(651, 378);
             gridRecords.TabIndex = 3;
             // 

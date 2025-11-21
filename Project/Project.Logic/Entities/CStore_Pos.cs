@@ -16,7 +16,6 @@ namespace Inventory.Logic.Entities
 
         public int STORE_CID { get => this.Record.STORE_CID; set => this.Record.STORE_CID = value; }
 
-        public int STORE_ID { get => this.Record.STORE_ID; set => this.Record.STORE_ID = value; }
 
     }
 }

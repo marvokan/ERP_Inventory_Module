@@ -36,6 +36,8 @@ namespace Lib.UX.Controls
                     ((ComboBox)oControl).Enabled = p_bIsEnabled;
                 else if (oControl is DateTimePicker)
                     ((DateTimePicker)oControl).Enabled = p_bIsEnabled;
+                else if (oControl is NumericUpDown)
+                    ((NumericUpDown)oControl).Enabled = p_bIsEnabled;
                 else if (oControl is DataGridView)
                 {
                     if (p_bIsEnabled)

@@ -46,6 +46,8 @@ namespace Inventory.UX.Views
             if (oCurrentUser != null)
             { 
                 this.txtPerson.Text = oCurrentUser.PERSON;
+                this.numStore.Value = oCurrentUser.STORE_CID;
+
 
                 this.dtInventoryDate.Checked = (oCurrentUser.INV_DATETIME != null);
                 this.dtInventoryDate.Value = oCurrentUser.INV_DATETIME ?? DateTime.Now;
@@ -60,7 +62,6 @@ namespace Inventory.UX.Views
             CItem_Inv oCurrentUser = this.module.MasterEntity;
             if (oCurrentUser != null)
             {
-                oCurrentUser.PERSON = this.txtPerson.Text;
 
                 oCurrentUser.Status = -1;
                 if (this.cboStatus.SelectedItem != null)
@@ -68,6 +69,9 @@ namespace Inventory.UX.Views
                     CStatus oSelectedStatus = (CStatus)this.cboStatus.SelectedItem;
                     oCurrentUser.Status = oSelectedStatus.ID;
                 }
+
+                oCurrentUser.STORE_CID = (int)this.numStore.Value;
+
 
                 if (this.dtInventoryDate.Checked)
                     oCurrentUser.INV_DATETIME = this.dtInventoryDate.Value.Date;
@@ -97,8 +101,8 @@ namespace Inventory.UX.Views
         private void displayStatusLookup(CItem_Inv p_oCurrentAppUser)
         {
             // Loads all the options
-            this.cboStatus.ValueMember = "Status";
-            this.cboStatus.DisplayMember = "StatusDesc";
+            this.cboStatus.ValueMember = "ID";
+            this.cboStatus.DisplayMember = "Name";
             this.cboStatus.Items.Clear();
             CStatusModel oLookup = (CStatusModel)this.module.Lookups[CDataModuleBuilderItem_Inv.LOOKUP_STATUS];
 

@@ -32,15 +32,14 @@ namespace Inventory.Data.Tables
                             // Provide the insert statement that will be used for new records
                             @"
                                   insert into STORE_POS
-                                    (STORE_CID, STORE_ID)
+                                    (STORE_CID)
                                   values
-                                    (@STORE_CID, @STORE_ID)",
+                                    (@STORE_CID)",
 
                             // Provide the update statement that will be used for updated records
                             @"
                                   update STORE_POS set
-                                    STORE_CID = @STORE_CID,
-                                    STORE_ID = @STORE_ID                   
+                                    STORE_CID = @STORE_CID                
                                   where 
                                     ID = @ID
                                 ",

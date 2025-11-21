@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NQit9wqdmXo=",
+  "dgSpecHash": "WsXQ1IxVk/c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\20220364\\Documents\\GitHub\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj",
+  "projectFilePath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\20220364\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\20220364\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

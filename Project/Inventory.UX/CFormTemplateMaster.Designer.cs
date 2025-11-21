@@ -63,7 +63,7 @@
             tabPages.Location = new Point(0, 0);
             tabPages.Name = "tabPages";
             tabPages.SelectedIndex = 0;
-            tabPages.Size = new Size(922, 624);
+            tabPages.Size = new Size(1432, 665);
             tabPages.TabIndex = 0;
             tabPages.SelectedIndexChanged += DoOnAnyCommand;
             // 
@@ -74,7 +74,7 @@
             tabViewBrowser.Location = new Point(4, 24);
             tabViewBrowser.Name = "tabViewBrowser";
             tabViewBrowser.Padding = new Padding(3);
-            tabViewBrowser.Size = new Size(914, 596);
+            tabViewBrowser.Size = new Size(1424, 637);
             tabViewBrowser.TabIndex = 0;
             tabViewBrowser.Text = "Browser";
             tabViewBrowser.UseVisualStyleBackColor = true;
@@ -133,11 +133,11 @@
             // 
             // pnlBrowser
             // 
+            pnlBrowser.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             pnlBrowser.Controls.Add(dgvBrowser);
-            pnlBrowser.Dock = DockStyle.Right;
             pnlBrowser.Location = new Point(209, 3);
             pnlBrowser.Name = "pnlBrowser";
-            pnlBrowser.Size = new Size(702, 590);
+            pnlBrowser.Size = new Size(1212, 590);
             pnlBrowser.TabIndex = 0;
             // 
             // dgvBrowser
@@ -146,9 +146,8 @@
             dgvBrowser.Dock = DockStyle.Fill;
             dgvBrowser.Location = new Point(0, 0);
             dgvBrowser.Name = "dgvBrowser";
-            dgvBrowser.RowTemplate.Height = 25;
             dgvBrowser.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-            dgvBrowser.Size = new Size(702, 590);
+            dgvBrowser.Size = new Size(1212, 590);
             dgvBrowser.TabIndex = 0;
             dgvBrowser.DoubleClick += DoOnAnyCommand;
             // 
@@ -159,7 +158,7 @@
             tabViewEntity.Location = new Point(4, 24);
             tabViewEntity.Name = "tabViewEntity";
             tabViewEntity.Padding = new Padding(3);
-            tabViewEntity.Size = new Size(914, 596);
+            tabViewEntity.Size = new Size(1332, 637);
             tabViewEntity.TabIndex = 1;
             tabViewEntity.Text = "Entity";
             tabViewEntity.UseVisualStyleBackColor = true;
@@ -169,7 +168,7 @@
             pnlEntityView.Dock = DockStyle.Fill;
             pnlEntityView.Location = new Point(203, 3);
             pnlEntityView.Name = "pnlEntityView";
-            pnlEntityView.Size = new Size(708, 590);
+            pnlEntityView.Size = new Size(1126, 631);
             pnlEntityView.TabIndex = 11;
             // 
             // pnlEntityCommands
@@ -184,7 +183,7 @@
             pnlEntityCommands.Dock = DockStyle.Left;
             pnlEntityCommands.Location = new Point(3, 3);
             pnlEntityCommands.Name = "pnlEntityCommands";
-            pnlEntityCommands.Size = new Size(200, 590);
+            pnlEntityCommands.Size = new Size(200, 631);
             pnlEntityCommands.TabIndex = 10;
             // 
             // btnBackToBrowser
@@ -251,7 +250,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(922, 624);
+            ClientSize = new Size(1432, 665);
             Controls.Add(tabPages);
             Name = "CFormTemplateMaster";
             Text = "Master Form";

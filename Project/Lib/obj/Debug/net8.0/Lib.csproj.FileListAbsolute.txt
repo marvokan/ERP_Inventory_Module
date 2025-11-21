@@ -23,3 +23,16 @@ C:\Users\20220364\Documents\GitHub\412Project\Project\Lib\obj\Debug\net8.0\Lib.d
 C:\Users\20220364\Documents\GitHub\412Project\Project\Lib\obj\Debug\net8.0\refint\Lib.dll
 C:\Users\20220364\Documents\GitHub\412Project\Project\Lib\obj\Debug\net8.0\Lib.pdb
 C:\Users\20220364\Documents\GitHub\412Project\Project\Lib\obj\Debug\net8.0\ref\Lib.dll
+C:\Users\20220364\Desktop\412Project\412Project\Project\Lib\bin\Debug\net8.0\Lib.deps.json
+C:\Users\20220364\Desktop\412Project\412Project\Project\Lib\bin\Debug\net8.0\Lib.dll
+C:\Users\20220364\Desktop\412Project\412Project\Project\Lib\bin\Debug\net8.0\Lib.pdb
+C:\Users\20220364\Desktop\412Project\412Project\Project\Lib\obj\Debug\net8.0\Lib.csproj.AssemblyReference.cache
+C:\Users\20220364\Desktop\412Project\412Project\Project\Lib\obj\Debug\net8.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20220364\Desktop\412Project\412Project\Project\Lib\obj\Debug\net8.0\Lib.AssemblyInfoInputs.cache
+C:\Users\20220364\Desktop\412Project\412Project\Project\Lib\obj\Debug\net8.0\Lib.AssemblyInfo.cs
+C:\Users\20220364\Desktop\412Project\412Project\Project\Lib\obj\Debug\net8.0\Lib.csproj.CoreCompileInputs.cache
+C:\Users\20220364\Desktop\412Project\412Project\Project\Lib\obj\Debug\net8.0\Lib.sourcelink.json
+C:\Users\20220364\Desktop\412Project\412Project\Project\Lib\obj\Debug\net8.0\Lib.dll
+C:\Users\20220364\Desktop\412Project\412Project\Project\Lib\obj\Debug\net8.0\refint\Lib.dll
+C:\Users\20220364\Desktop\412Project\412Project\Project\Lib\obj\Debug\net8.0\Lib.pdb
+C:\Users\20220364\Desktop\412Project\412Project\Project\Lib\obj\Debug\net8.0\ref\Lib.dll

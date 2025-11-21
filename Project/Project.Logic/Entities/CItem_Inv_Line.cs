@@ -77,7 +77,7 @@ namespace Inventory.Logic.Entities
 
         public float ACTUAL_QTY { get => this.Record.ACTUAL_QTY; set => this.Record.ACTUAL_QTY = value; }
 
-        public float PERSON { get => this.Record.DEFICIT_SURPLUS; set => this.Record.DEFICIT_SURPLUS = value; }
+        public float DEFICIT_SURPLUS { get => this.Record.DEFICIT_SURPLUS; set => this.Record.DEFICIT_SURPLUS = value; }
 
         public string? REMARKS { get => this.Record.REMARKS; set => this.Record.REMARKS = value; }
     }

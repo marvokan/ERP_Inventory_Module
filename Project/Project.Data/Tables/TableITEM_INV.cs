@@ -31,7 +31,7 @@ namespace Inventory.Data.Tables
                 try
                 {
                     var oRecords = this.DB.SelectWithParams<ITEM_INV>(
-                            "select * from ZAPPUSER where ID = @ID", oParams, iTransaction);
+                            "select * from ITEM_INV where ID = @ID", oParams, iTransaction);
                     iTransaction.Commit();
 
                     // When a select returns no records a null object might be returned by the method

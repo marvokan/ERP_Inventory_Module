@@ -15,7 +15,7 @@ namespace Inventory.Logic.Entities
         public int Id => this.Record.ID;
         public int STORE_CID { get => this.Record.STORE_CID; set => this.Record.STORE_CID = value; }
 
-        public int Status { get; set; }
+        public int Status { get => this.Record.STATUS; set => this.Record.STATUS = value; }
 
         public string StatusDesc { get; set; }
 

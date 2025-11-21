@@ -15,6 +15,5 @@ namespace Inventory.Data.Records
 
         public int STORE_CID { get; set; }
 
-        public int STORE_ID { get; set; }
     }
 }
