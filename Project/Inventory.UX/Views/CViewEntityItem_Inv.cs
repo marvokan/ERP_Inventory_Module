@@ -62,7 +62,8 @@ namespace Inventory.UX.Views
             CItem_Inv oCurrentUser = this.module.MasterEntity;
             if (oCurrentUser != null)
             {
-
+                oCurrentUser.PERSON = "";
+                oCurrentUser.PERSON = this.txtPerson.Text;
                 oCurrentUser.Status = -1;
                 if (this.cboStatus.SelectedItem != null)
                 {

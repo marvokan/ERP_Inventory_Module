@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WindowsApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89dc3b8a135d5e898cf519f825fad44885e43450")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c04a1821a4fac5b5094b937c35ed6e97293b4776")]
 [assembly: System.Reflection.AssemblyProductAttribute("WindowsApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WindowsApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
