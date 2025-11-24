@@ -75,7 +75,7 @@ namespace Inventory.UX.Views
             string sSearchStr = this.txtSearch.Text;
 
             // [C#/LINQ] This is an example of runing a SELECT query a generic list with a specific WHERE clause.
-            var oFound = this.browserModel.Where(x => x.StoreLocation.ToLower().Contains(sSearchStr.ToLower())).ToList();
+            var oFound = this.browserModel.Where(x => x.Person.ToLower().Contains(sSearchStr.ToLower())).ToList();
             if (oFound.Count > 0)
                 this.lstBrowser.SelectedItem = oFound[0];
         }

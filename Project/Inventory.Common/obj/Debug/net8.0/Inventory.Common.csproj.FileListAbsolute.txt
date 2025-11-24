@@ -34,3 +34,15 @@ C:\Users\20220364\Desktop\412Project\412Project\Project\Inventory.Common\obj\Deb
 C:\Users\20220364\Desktop\412Project\412Project\Project\Inventory.Common\obj\Debug\net8.0\refint\Inventory.Common.dll
 C:\Users\20220364\Desktop\412Project\412Project\Project\Inventory.Common\obj\Debug\net8.0\Inventory.Common.pdb
 C:\Users\20220364\Desktop\412Project\412Project\Project\Inventory.Common\obj\Debug\net8.0\ref\Inventory.Common.dll
+C:\Users\thana\source\repos\marvokan\412Project\Project\Inventory.Common\bin\Debug\net8.0\Inventory.Common.deps.json
+C:\Users\thana\source\repos\marvokan\412Project\Project\Inventory.Common\bin\Debug\net8.0\Inventory.Common.dll
+C:\Users\thana\source\repos\marvokan\412Project\Project\Inventory.Common\bin\Debug\net8.0\Inventory.Common.pdb
+C:\Users\thana\source\repos\marvokan\412Project\Project\Inventory.Common\obj\Debug\net8.0\Inventory.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thana\source\repos\marvokan\412Project\Project\Inventory.Common\obj\Debug\net8.0\Inventory.Common.AssemblyInfoInputs.cache
+C:\Users\thana\source\repos\marvokan\412Project\Project\Inventory.Common\obj\Debug\net8.0\Inventory.Common.AssemblyInfo.cs
+C:\Users\thana\source\repos\marvokan\412Project\Project\Inventory.Common\obj\Debug\net8.0\Inventory.Common.csproj.CoreCompileInputs.cache
+C:\Users\thana\source\repos\marvokan\412Project\Project\Inventory.Common\obj\Debug\net8.0\Inventory.Common.sourcelink.json
+C:\Users\thana\source\repos\marvokan\412Project\Project\Inventory.Common\obj\Debug\net8.0\Inventory.Common.dll
+C:\Users\thana\source\repos\marvokan\412Project\Project\Inventory.Common\obj\Debug\net8.0\refint\Inventory.Common.dll
+C:\Users\thana\source\repos\marvokan\412Project\Project\Inventory.Common\obj\Debug\net8.0\Inventory.Common.pdb
+C:\Users\thana\source\repos\marvokan\412Project\Project\Inventory.Common\obj\Debug\net8.0\ref\Inventory.Common.dll

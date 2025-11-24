@@ -17,10 +17,12 @@ namespace Inventory.Logic.Entities
     {
         [Key]
         [ColumnWidth(45)]
+        [Browsable(false)]
         public int Id => this.Record.ID;
 
         [ForeignKey("Master")]
         [ColumnWidth(30)]
+        [Browsable (false)]
         public int ITEM_INV_ID { get => this.Record.ITEM_INV_ID; set => this.Record.ITEM_INV_ID = value; }
 
         //public int ITEM_ID { get => this.Record.ITEM_ID; set => this.Record.ITEM_ID = value; }

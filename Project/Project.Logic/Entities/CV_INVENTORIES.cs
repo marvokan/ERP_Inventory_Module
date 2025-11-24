@@ -44,10 +44,22 @@ namespace Inventory.Logic.Entities
 
 
 
+        //public override string ToString()
+        //{
+        //    return String.Format("{0} - {1} - {4} - {2}   -   Total Inventory Nominaly Value: {3} € ", this.Id, this.Person, this.InventoryDate, this.TotalInventoryValue, this.StoreLocation);
+        //}
+
         public override string ToString()
         {
-            return String.Format("{0} - {1} {2} ({3}) ", this.Id, this.Person, this.InventoryDate, this.TotalInventoryValue);
+            string id = Id.ToString().PadRight(2);
+            string person = Person.PadRight(16);
+            string store = StoreLocation.PadRight(23);
+            string date = InventoryDate.ToString("yyyy-MMM-dd HH:mm").PadRight(16);
+            string total = TotalInventoryValue.ToString("F2").PadLeft(8);
+
+            return $"{id} -> {person} - {store} - {date} | Total Inventory Value: {total} €";
         }
+
 
     }
 }

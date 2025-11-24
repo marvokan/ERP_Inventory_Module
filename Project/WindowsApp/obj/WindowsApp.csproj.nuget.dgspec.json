@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\WindowsApp\\WindowsApp.csproj": {}
+    "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\WindowsApp\\WindowsApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj": {
+    "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj",
+        "projectUniqueName": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj",
         "projectName": "Inventory.Common",
-        "projectPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj",
-        "packagesPath": "C:\\Users\\20220364\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Inventory.Common\\obj\\",
+        "projectPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj",
+        "packagesPath": "C:\\Users\\thana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Inventory.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\20220364\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -65,24 +66,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Inventory.UX\\Inventory.UX.csproj": {
+    "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Inventory.UX\\Inventory.UX.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Inventory.UX\\Inventory.UX.csproj",
+        "projectUniqueName": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Inventory.UX\\Inventory.UX.csproj",
         "projectName": "Inventory.UX",
-        "projectPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Inventory.UX\\Inventory.UX.csproj",
-        "packagesPath": "C:\\Users\\20220364\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Inventory.UX\\obj\\",
+        "projectPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Inventory.UX\\Inventory.UX.csproj",
+        "packagesPath": "C:\\Users\\thana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Inventory.UX\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\20220364\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -98,14 +99,14 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj": {
-                "projectPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj"
+              "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj": {
+                "projectPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj"
               },
-              "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Lib.UX\\Lib.UX.csproj": {
-                "projectPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Lib.UX\\Lib.UX.csproj"
+              "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Lib.UX\\Lib.UX.csproj": {
+                "projectPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Lib.UX\\Lib.UX.csproj"
               },
-              "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj": {
-                "projectPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj"
+              "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj": {
+                "projectPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj"
               }
             }
           }
@@ -119,7 +120,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -143,24 +145,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Lib.UX\\Lib.UX.csproj": {
+    "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Lib.UX\\Lib.UX.csproj": {
       "version": "4.1.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Lib.UX\\Lib.UX.csproj",
+        "projectUniqueName": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Lib.UX\\Lib.UX.csproj",
         "projectName": "Lib.UX",
-        "projectPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Lib.UX\\Lib.UX.csproj",
-        "packagesPath": "C:\\Users\\20220364\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Lib.UX\\obj\\",
+        "projectPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Lib.UX\\Lib.UX.csproj",
+        "packagesPath": "C:\\Users\\thana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Lib.UX\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\20220364\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -176,8 +178,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Lib\\Lib.csproj": {
-                "projectPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Lib\\Lib.csproj"
+              "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Lib\\Lib.csproj": {
+                "projectPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Lib\\Lib.csproj"
               }
             }
           }
@@ -191,7 +193,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -215,24 +218,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Lib\\Lib.csproj": {
+    "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Lib\\Lib.csproj": {
       "version": "4.1.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Lib\\Lib.csproj",
+        "projectUniqueName": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Lib\\Lib.csproj",
         "projectName": "Lib",
-        "projectPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Lib\\Lib.csproj",
-        "packagesPath": "C:\\Users\\20220364\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Lib\\obj\\",
+        "projectPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Lib\\Lib.csproj",
+        "packagesPath": "C:\\Users\\thana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Lib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\20220364\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -259,7 +262,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -294,24 +298,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Project.Data\\Inventory.Data.csproj": {
+    "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Project.Data\\Inventory.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Project.Data\\Inventory.Data.csproj",
+        "projectUniqueName": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Project.Data\\Inventory.Data.csproj",
         "projectName": "Inventory.Data",
-        "projectPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Project.Data\\Inventory.Data.csproj",
-        "packagesPath": "C:\\Users\\20220364\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Project.Data\\obj\\",
+        "projectPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Project.Data\\Inventory.Data.csproj",
+        "packagesPath": "C:\\Users\\thana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Project.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\20220364\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -327,11 +331,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj": {
-                "projectPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj"
+              "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj": {
+                "projectPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj"
               },
-              "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Lib\\Lib.csproj": {
-                "projectPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Lib\\Lib.csproj"
+              "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Lib\\Lib.csproj": {
+                "projectPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Lib\\Lib.csproj"
               }
             }
           }
@@ -345,7 +349,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -366,24 +371,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj": {
+    "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj",
+        "projectUniqueName": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj",
         "projectName": "Inventory.Logic",
-        "projectPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj",
-        "packagesPath": "C:\\Users\\20220364\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Project.Logic\\obj\\",
+        "projectPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj",
+        "packagesPath": "C:\\Users\\thana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Project.Logic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\20220364\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -399,14 +404,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj": {
-                "projectPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj"
+              "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj": {
+                "projectPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj"
               },
-              "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Lib\\Lib.csproj": {
-                "projectPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Lib\\Lib.csproj"
+              "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Lib\\Lib.csproj": {
+                "projectPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Lib\\Lib.csproj"
               },
-              "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Project.Data\\Inventory.Data.csproj": {
-                "projectPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Project.Data\\Inventory.Data.csproj"
+              "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Project.Data\\Inventory.Data.csproj": {
+                "projectPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Project.Data\\Inventory.Data.csproj"
               }
             }
           }
@@ -420,7 +425,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -441,24 +447,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\WindowsApp\\WindowsApp.csproj": {
+    "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\WindowsApp\\WindowsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\WindowsApp\\WindowsApp.csproj",
+        "projectUniqueName": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\WindowsApp\\WindowsApp.csproj",
         "projectName": "WindowsApp",
-        "projectPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\WindowsApp\\WindowsApp.csproj",
-        "packagesPath": "C:\\Users\\20220364\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\WindowsApp\\obj\\",
+        "projectPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\WindowsApp\\WindowsApp.csproj",
+        "packagesPath": "C:\\Users\\thana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\WindowsApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\20220364\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -474,8 +480,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Inventory.UX\\Inventory.UX.csproj": {
-                "projectPath": "C:\\Users\\20220364\\Desktop\\412Project\\412Project\\Project\\Inventory.UX\\Inventory.UX.csproj"
+              "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Inventory.UX\\Inventory.UX.csproj": {
+                "projectPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Inventory.UX\\Inventory.UX.csproj"
               }
             }
           }
@@ -489,7 +495,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -513,7 +520,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
