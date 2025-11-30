@@ -4,7 +4,7 @@ A comprehensive enterprise-class inventory management system built with C# and .
 
 ## Overview
 
-This project is an ERP (Enterprise Resource Planning) inventory module designed to manage inventory operations including item tracking, inventory audits, package/barcode management, and store location management. The system implements a layered architecture with clear separation of concerns using established design patterns.
+This project is an ERP (Enterprise Resource Planning) inventory module designed to manage inventory operations, including item tracking, inventory audits, package/barcode management, and store location management. The system implements a layered architecture with clear separation of concerns using established design patterns.
 
 ## Features
 
@@ -125,7 +125,6 @@ The system manages a comprehensive ERP schema including:
 
 Database scripts are provided:
 - `Schema.Full.SQL` - Complete schema definition
-- `Data_Input.sql` - Initial data setup
 - `Test_Inventory.sql` - Test data
 
 ## Getting Started
@@ -140,23 +139,17 @@ Database scripts are provided:
 
 1. Clone the repository
 2. Open `Project.sln` in Visual Studio
-3. Set up the database:
-   - Execute `Schema.Full.SQL` to create the database schema
-   - Run `Data_Input.sql` for initial reference data
-   - (Optional) Run `Test_Inventory.sql` for test data
-4. Update connection string in `settings.json`
-5. Build the solution
-6. Run the `WindowsApp` project
+3. Set up an MS SQL Database, adding the server information and authentication in `CSettings.cs`
+4. Set up the database:
+   - Execute `Schema.Full.SQL` on the MS SQL Server to create the database schema
+   - Run `Test_Inventory.sql` for test data
+6. Build the solution
+7. Run the `WindowsApp` project
 
 ## Configuration
 
-Application settings are stored in `settings.json`. Update the database connection string as needed:
+Application settings are stored in `CSettings.cs`. Update the database connection string as needed:
 
-```json
-{
-  "ConnectionString": "your-connection-string-here"
-}
-```
 
 ## Development
 
@@ -168,10 +161,6 @@ The project follows SOLID principles with clear separation of concerns:
 - **UI forms** follow template patterns for consistency
 - **State management** ensures data integrity
 
-## License
 
-[Specify your license here]
-
-## Contributing
-
-[Add contribution guidelines if applicable]
+## Further Work
+Due to this project's modularity and generic methods, it can be easily expanded to add other modules such as payments, orders, customers, and others, by following the flow of SQL Schema -> Data Tier -> Logic Tier -> UX Tier.
