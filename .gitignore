@@ -1,1 +1,5 @@
 .vs/
+.vscode/
+*.user
+*.suo
+*.cache/
