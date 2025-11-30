@@ -581,11 +581,11 @@
   "project": {
     "version": "4.1.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Lib\\Lib.csproj",
+      "projectUniqueName": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Lib\\Lib.csproj",
       "projectName": "Lib",
-      "projectPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Lib\\Lib.csproj",
+      "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Lib\\Lib.csproj",
       "packagesPath": "C:\\Users\\thana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Lib\\obj\\",
+      "outputPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Lib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -654,7 +654,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

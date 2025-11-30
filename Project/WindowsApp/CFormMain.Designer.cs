@@ -32,7 +32,10 @@
             mnuMasterDetail = new ToolStripMenuItem();
             mnuItem_Inv = new ToolStripMenuItem();
             tablesToolStripMenuItem = new ToolStripMenuItem();
-            mnuMovies = new ToolStripMenuItem();
+            mnuItems = new ToolStripMenuItem();
+            mnuStores = new ToolStripMenuItem();
+            mnuStore_Poses = new ToolStripMenuItem();
+            mnuItemPkgs = new ToolStripMenuItem();
             mnuMain.SuspendLayout();
             SuspendLayout();
             // 
@@ -61,17 +64,38 @@
             // 
             // tablesToolStripMenuItem
             // 
-            tablesToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { mnuMovies });
+            tablesToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { mnuItemPkgs, mnuStore_Poses, mnuStores, mnuItems });
             tablesToolStripMenuItem.Name = "tablesToolStripMenuItem";
             tablesToolStripMenuItem.Size = new Size(51, 20);
             tablesToolStripMenuItem.Text = "Tables";
             // 
-            // mnuMovies
+            // mnuItems
             // 
-            mnuMovies.Name = "mnuMovies";
-            mnuMovies.Size = new Size(103, 22);
-            mnuMovies.Text = "Items";
-            mnuMovies.Click += DoOnAnyCommand;
+            mnuItems.Name = "mnuItems";
+            mnuItems.Size = new Size(180, 22);
+            mnuItems.Text = "Items";
+            mnuItems.Click += DoOnAnyCommand;
+            // 
+            // mnuStores
+            // 
+            mnuStores.Name = "mnuStores";
+            mnuStores.Size = new Size(180, 22);
+            mnuStores.Text = "Stores";
+            mnuStores.Click += DoOnAnyCommand;
+            // 
+            // mnuStore_Poses
+            // 
+            mnuStore_Poses.Name = "mnuStore_Poses";
+            mnuStore_Poses.Size = new Size(180, 22);
+            mnuStore_Poses.Text = "Store Positions";
+            mnuStore_Poses.Click += DoOnAnyCommand;
+            // 
+            // mnuItemPkgs
+            // 
+            mnuItemPkgs.Name = "mnuItemPkgs";
+            mnuItemPkgs.Size = new Size(180, 22);
+            mnuItemPkgs.Text = "Item Packages";
+            mnuItemPkgs.Click += DoOnAnyCommand;
             // 
             // CFormMain
             // 
@@ -96,6 +120,9 @@
         private ToolStripMenuItem mnuMasterDetail;
         private ToolStripMenuItem mnuItem_Inv;
         private ToolStripMenuItem tablesToolStripMenuItem;
-        private ToolStripMenuItem mnuMovies;
+        private ToolStripMenuItem mnuItems;
+        private ToolStripMenuItem mnuItemPkgs;
+        private ToolStripMenuItem mnuStore_Poses;
+        private ToolStripMenuItem mnuStores;
     }
 }

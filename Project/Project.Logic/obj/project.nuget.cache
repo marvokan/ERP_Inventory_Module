@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8nEaE5RykLM=",
+  "dgSpecHash": "6khL2GbrjQQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj",
+  "projectFilePath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thana\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\thana\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

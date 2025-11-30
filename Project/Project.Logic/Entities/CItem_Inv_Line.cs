@@ -60,6 +60,7 @@ namespace Inventory.Logic.Entities
 
         [ColumnWidth(200)]
         [DisplayName("Item Name")]
+        [ReadOnly(true)]
         public string ItemName
         {
             get
@@ -68,6 +69,19 @@ namespace Inventory.Logic.Entities
                     return "";
                 else
                     return this.Item.Description;
+            }
+        }
+
+        [DisplayName("Base Price")]
+        [ReadOnly(true)]
+        public float Base_Price
+        {
+            get
+            {
+                if (this.Item == null)
+                    return 0;
+                else
+                    return this.Item.Base_Price;
             }
         }
 

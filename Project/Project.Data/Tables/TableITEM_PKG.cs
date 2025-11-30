@@ -11,7 +11,7 @@ namespace Inventory.Data.Tables
 {
     public class TableITEM_PKG : CDBTable<ITEM_PKG>
     {
-        public TableITEM_PKG(string p_sTableName) : base(p_sTableName)
+        public TableITEM_PKG() : base("ItemPkg")
         {
         }
 

@@ -61,3 +61,19 @@ C:\Users\thana\source\repos\marvokan\412Project\Project\Lib.UX\obj\Debug\net8.0-
 C:\Users\thana\source\repos\marvokan\412Project\Project\Lib.UX\obj\Debug\net8.0-windows\refint\Lib.UX.dll
 C:\Users\thana\source\repos\marvokan\412Project\Project\Lib.UX\obj\Debug\net8.0-windows\Lib.UX.pdb
 C:\Users\thana\source\repos\marvokan\412Project\Project\Lib.UX\obj\Debug\net8.0-windows\ref\Lib.UX.dll
+C:\Users\thana\Desktop\ACT\CS 412 - Object Oriented Patterns\412Project\Project\Lib.UX\bin\Debug\net8.0-windows\Lib.UX.deps.json
+C:\Users\thana\Desktop\ACT\CS 412 - Object Oriented Patterns\412Project\Project\Lib.UX\bin\Debug\net8.0-windows\Lib.UX.dll
+C:\Users\thana\Desktop\ACT\CS 412 - Object Oriented Patterns\412Project\Project\Lib.UX\bin\Debug\net8.0-windows\Lib.UX.pdb
+C:\Users\thana\Desktop\ACT\CS 412 - Object Oriented Patterns\412Project\Project\Lib.UX\bin\Debug\net8.0-windows\Lib.dll
+C:\Users\thana\Desktop\ACT\CS 412 - Object Oriented Patterns\412Project\Project\Lib.UX\bin\Debug\net8.0-windows\Lib.pdb
+C:\Users\thana\Desktop\ACT\CS 412 - Object Oriented Patterns\412Project\Project\Lib.UX\obj\Debug\net8.0-windows\Lib.UX.csproj.AssemblyReference.cache
+C:\Users\thana\Desktop\ACT\CS 412 - Object Oriented Patterns\412Project\Project\Lib.UX\obj\Debug\net8.0-windows\Lib.UX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thana\Desktop\ACT\CS 412 - Object Oriented Patterns\412Project\Project\Lib.UX\obj\Debug\net8.0-windows\Lib.UX.AssemblyInfoInputs.cache
+C:\Users\thana\Desktop\ACT\CS 412 - Object Oriented Patterns\412Project\Project\Lib.UX\obj\Debug\net8.0-windows\Lib.UX.AssemblyInfo.cs
+C:\Users\thana\Desktop\ACT\CS 412 - Object Oriented Patterns\412Project\Project\Lib.UX\obj\Debug\net8.0-windows\Lib.UX.csproj.CoreCompileInputs.cache
+C:\Users\thana\Desktop\ACT\CS 412 - Object Oriented Patterns\412Project\Project\Lib.UX\obj\Debug\net8.0-windows\Lib.UX.sourcelink.json
+C:\Users\thana\Desktop\ACT\CS 412 - Object Oriented Patterns\412Project\Project\Lib.UX\obj\Debug\net8.0-windows\Lib.UX.csproj.Up2Date
+C:\Users\thana\Desktop\ACT\CS 412 - Object Oriented Patterns\412Project\Project\Lib.UX\obj\Debug\net8.0-windows\Lib.UX.dll
+C:\Users\thana\Desktop\ACT\CS 412 - Object Oriented Patterns\412Project\Project\Lib.UX\obj\Debug\net8.0-windows\refint\Lib.UX.dll
+C:\Users\thana\Desktop\ACT\CS 412 - Object Oriented Patterns\412Project\Project\Lib.UX\obj\Debug\net8.0-windows\Lib.UX.pdb
+C:\Users\thana\Desktop\ACT\CS 412 - Object Oriented Patterns\412Project\Project\Lib.UX\obj\Debug\net8.0-windows\ref\Lib.UX.dll

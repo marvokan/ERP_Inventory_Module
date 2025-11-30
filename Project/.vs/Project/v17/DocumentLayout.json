@@ -1,58 +1,186 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\",
+  "WorkspaceRootPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\thana\\source\\repos\\marvokan\\412project\\project\\project.logic\\entities\\citem_inv_line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\entities\\citem_inv_line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\thana\\source\\repos\\marvokan\\412project\\project\\project.logic\\entities\\cv_inventories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\entities\\cv_inventories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\thana\\source\\repos\\marvokan\\412project\\project\\project.logic\\entities\\cstore_pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\entities\\cstore_pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|c:\\users\\thana\\source\\repos\\marvokan\\412project\\project\\inventory.ux\\views\\cviewentityitem_inv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|solutionrelative:inventory.ux\\views\\cviewentityitem_inv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|c:\\users\\thana\\source\\repos\\marvokan\\412project\\project\\inventory.ux\\views\\cviewentityitem_inv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\inventory.ux\\views\\cviewentityitem_inv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|solutionrelative:inventory.ux\\views\\cviewentityitem_inv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\thana\\source\\repos\\marvokan\\412project\\project\\project.logic\\models\\citem_inv_linemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\models\\citem_inv_linemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\inventory.ux\\views\\cviewentityitem_inv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|solutionrelative:inventory.ux\\views\\cviewentityitem_inv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|c:\\users\\thana\\source\\repos\\marvokan\\412project\\project\\inventory.ux\\views\\cviewbrowseritem_inv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|solutionrelative:inventory.ux\\views\\cviewbrowseritem_inv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\project.logic\\entities\\citem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\entities\\citem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|c:\\users\\thana\\source\\repos\\marvokan\\412project\\project\\inventory.ux\\views\\cviewbrowseritem_inv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|solutionrelative:inventory.ux\\views\\cviewbrowseritem_inv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\project.logic\\entities\\citem_inv_line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\entities\\citem_inv_line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|c:\\users\\thana\\source\\repos\\marvokan\\412project\\project\\inventory.ux\\views\\cviewbrowseritem_inv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|solutionrelative:inventory.ux\\views\\cviewbrowseritem_inv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\inventory.ux\\views\\cviewentityitem_inv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|solutionrelative:inventory.ux\\views\\cviewentityitem_inv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\thana\\source\\repos\\marvokan\\412project\\project\\project.logic\\models\\citem_invmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\models\\citem_invmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\inventory.ux\\cformtemplatemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|solutionrelative:inventory.ux\\cformtemplatemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\thana\\source\\repos\\marvokan\\412project\\project\\project.logic\\entities\\citem_inv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\project.logic\\models\\citem_pkgmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\models\\citem_pkgmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\project.logic\\models\\cstoremodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\models\\cstoremodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D2DDC9-EF4A-47A6-90A3-5ACFAB3C34F7}|WindowsApp\\WindowsApp.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\windowsapp\\cformmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D2DDC9-EF4A-47A6-90A3-5ACFAB3C34F7}|WindowsApp\\WindowsApp.csproj|solutionrelative:windowsapp\\cformmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D2DDC9-EF4A-47A6-90A3-5ACFAB3C34F7}|WindowsApp\\WindowsApp.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\windowsapp\\cformmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78D2DDC9-EF4A-47A6-90A3-5ACFAB3C34F7}|WindowsApp\\WindowsApp.csproj|solutionrelative:windowsapp\\cformmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\project.data\\tables\\tableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|solutionrelative:project.data\\tables\\tableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\project.data\\tables\\tablestore_pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|solutionrelative:project.data\\tables\\tablestore_pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\project.data\\tables\\tablestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|solutionrelative:project.data\\tables\\tablestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\project.data\\records\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|solutionrelative:project.data\\records\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\project.data\\records\\store_pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|solutionrelative:project.data\\records\\store_pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\project.data\\records\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|solutionrelative:project.data\\records\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\project.logic\\entities\\citem_inv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\entities\\citem_inv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78D2DDC9-EF4A-47A6-90A3-5ACFAB3C34F7}|WindowsApp\\WindowsApp.csproj|c:\\users\\thana\\source\\repos\\marvokan\\412project\\project\\windowsapp\\windowsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{78D2DDC9-EF4A-47A6-90A3-5ACFAB3C34F7}|WindowsApp\\WindowsApp.csproj|solutionrelative:windowsapp\\windowsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\project.logic\\builders\\cdatamodulebuilderitem_inv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\builders\\cdatamodulebuilderitem_inv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78D2DDC9-EF4A-47A6-90A3-5ACFAB3C34F7}|WindowsApp\\WindowsApp.csproj|c:\\users\\thana\\source\\repos\\marvokan\\412project\\project\\windowsapp\\cformmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78D2DDC9-EF4A-47A6-90A3-5ACFAB3C34F7}|WindowsApp\\WindowsApp.csproj|solutionrelative:windowsapp\\cformmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\project.logic\\entities\\cstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\entities\\cstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\project.logic\\entities\\cstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\entities\\cstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\project.data\\tables\\tableitem_pkg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|solutionrelative:project.data\\tables\\tableitem_pkg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\project.data\\cdatatablefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8393D2-F34D-40F6-A1E0-207E62E91267}|Project.Data\\Inventory.Data.csproj|solutionrelative:project.data\\cdatatablefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\project.logic\\inventory.logic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\inventory.logic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\project.logic\\models\\cstore_pos_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\models\\cstore_pos_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\inventory.ux\\tableforms\\ctableformstore_pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|solutionrelative:inventory.ux\\tableforms\\ctableformstore_pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\project.logic\\entities\\cstore_pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\entities\\cstore_pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D2DDC9-EF4A-47A6-90A3-5ACFAB3C34F7}|WindowsApp\\WindowsApp.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\windowsapp\\cformmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D2DDC9-EF4A-47A6-90A3-5ACFAB3C34F7}|WindowsApp\\WindowsApp.csproj|solutionrelative:windowsapp\\cformmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\inventory.ux\\tableforms\\ctableformstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|solutionrelative:inventory.ux\\tableforms\\ctableformstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\inventory.ux\\tableforms\\ctableformstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|solutionrelative:inventory.ux\\tableforms\\ctableformstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\inventory.ux\\tableforms\\ctableformstore.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|solutionrelative:inventory.ux\\tableforms\\ctableformstore.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\inventory.ux\\tableforms\\ctableformstore_pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|solutionrelative:inventory.ux\\tableforms\\ctableformstore_pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\inventory.ux\\tableforms\\ctableformstore_pos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|solutionrelative:inventory.ux\\tableforms\\ctableformstore_pos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\inventory.ux\\tableforms\\ctableformitem_pkg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|solutionrelative:inventory.ux\\tableforms\\ctableformitem_pkg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\inventory.ux\\tableforms\\ctableformitem_pkg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|solutionrelative:inventory.ux\\tableforms\\ctableformitem_pkg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\inventory.ux\\tableforms\\ctableformitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|solutionrelative:inventory.ux\\tableforms\\ctableformitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\inventory.ux\\tableforms\\ctableformitem_pkg.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|solutionrelative:inventory.ux\\tableforms\\ctableformitem_pkg.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\project.logic\\models\\citemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\models\\citemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\project.logic\\models\\cstatusmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\models\\cstatusmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\project.logic\\models\\citem_invmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\models\\citem_invmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\inventory.ux\\views\\cviewbrowseritem_inv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|solutionrelative:inventory.ux\\views\\cviewbrowseritem_inv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\project.logic\\entities\\cv_inventories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\entities\\cv_inventories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\project.logic\\models\\citem_inv_linemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD563-35B7-43EF-A58A-1F15EAE56E71}|Project.Logic\\Inventory.Logic.csproj|solutionrelative:project.logic\\models\\citem_inv_linemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\inventory.ux\\views\\cviewbrowseritem_inv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|solutionrelative:inventory.ux\\views\\cviewbrowseritem_inv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\inventory.ux\\views\\cviewbrowseritem_inv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DE5BFF-3D4C-4965-B212-3C86C6ABD111}|Inventory.UX\\Inventory.UX.csproj|solutionrelative:inventory.ux\\views\\cviewbrowseritem_inv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D2DDC9-EF4A-47A6-90A3-5ACFAB3C34F7}|WindowsApp\\WindowsApp.csproj|c:\\users\\thana\\desktop\\act\\cs 412 - object oriented patterns\\412project\\project\\windowsapp\\windowsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78D2DDC9-EF4A-47A6-90A3-5ACFAB3C34F7}|WindowsApp\\WindowsApp.csproj|solutionrelative:windowsapp\\windowsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,45 +190,503 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CViewEntityItem_Inv.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\Views\\CViewEntityItem_Inv.cs",
+              "RelativeDocumentMoniker": "Inventory.UX\\Views\\CViewEntityItem_Inv.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\Views\\CViewEntityItem_Inv.cs [Design]",
+              "RelativeToolTip": "Inventory.UX\\Views\\CViewEntityItem_Inv.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:27:57.622Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CStore_Pos.cs",
-              "DocumentMoniker": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Project.Logic\\Entities\\CStore_Pos.cs",
-              "RelativeDocumentMoniker": "Project.Logic\\Entities\\CStore_Pos.cs",
-              "ToolTip": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Project.Logic\\Entities\\CStore_Pos.cs",
-              "RelativeToolTip": "Project.Logic\\Entities\\CStore_Pos.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CItem_Inv_Line.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Entities\\CItem_Inv_Line.cs",
+              "RelativeDocumentMoniker": "Project.Logic\\Entities\\CItem_Inv_Line.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Entities\\CItem_Inv_Line.cs",
+              "RelativeToolTip": "Project.Logic\\Entities\\CItem_Inv_Line.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAYwEsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:34:11.928Z",
+              "WhenOpened": "2025-11-24T14:49:27.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "CViewEntityItem_Inv.cs",
-              "DocumentMoniker": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Inventory.UX\\Views\\CViewEntityItem_Inv.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\Views\\CViewEntityItem_Inv.cs",
               "RelativeDocumentMoniker": "Inventory.UX\\Views\\CViewEntityItem_Inv.cs",
-              "ToolTip": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Inventory.UX\\Views\\CViewEntityItem_Inv.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\Views\\CViewEntityItem_Inv.cs",
               "RelativeToolTip": "Inventory.UX\\Views\\CViewEntityItem_Inv.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAYwLIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T15:12:40.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TableITEM.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Data\\Tables\\TableITEM.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Tables\\TableITEM.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Data\\Tables\\TableITEM.cs",
+              "RelativeToolTip": "Project.Data\\Tables\\TableITEM.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAywA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:33:53.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TableSTORE_POS.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Data\\Tables\\TableSTORE_POS.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Tables\\TableSTORE_POS.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Data\\Tables\\TableSTORE_POS.cs",
+              "RelativeToolTip": "Project.Data\\Tables\\TableSTORE_POS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:34:34.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TableSTORE.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Data\\Tables\\TableSTORE.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Tables\\TableSTORE.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Data\\Tables\\TableSTORE.cs",
+              "RelativeToolTip": "Project.Data\\Tables\\TableSTORE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:33:47.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CFormMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\WindowsApp\\CFormMain.cs",
+              "RelativeDocumentMoniker": "WindowsApp\\CFormMain.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\WindowsApp\\CFormMain.cs [Design]",
+              "RelativeToolTip": "WindowsApp\\CFormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:26:26.001Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "CFormMain.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\WindowsApp\\CFormMain.cs",
+              "RelativeDocumentMoniker": "WindowsApp\\CFormMain.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\WindowsApp\\CFormMain.cs",
+              "RelativeToolTip": "WindowsApp\\CFormMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T16:49:48.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CStoreModel.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Models\\CStoreModel.cs",
+              "RelativeDocumentMoniker": "Project.Logic\\Models\\CStoreModel.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Models\\CStoreModel.cs",
+              "RelativeToolTip": "Project.Logic\\Models\\CStoreModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:17:23.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CItem.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Entities\\CItem.cs",
+              "RelativeDocumentMoniker": "Project.Logic\\Entities\\CItem.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Entities\\CItem.cs",
+              "RelativeToolTip": "Project.Logic\\Entities\\CItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:48:49.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CTableFormStore.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\TableForms\\CTableFormStore.cs",
+              "RelativeDocumentMoniker": "Inventory.UX\\TableForms\\CTableFormStore.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\TableForms\\CTableFormStore.cs",
+              "RelativeToolTip": "Inventory.UX\\TableForms\\CTableFormStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:24:33.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CViewEntityItem_Inv.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\Views\\CViewEntityItem_Inv.Designer.cs",
+              "RelativeDocumentMoniker": "Inventory.UX\\Views\\CViewEntityItem_Inv.Designer.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\Views\\CViewEntityItem_Inv.Designer.cs",
+              "RelativeToolTip": "Inventory.UX\\Views\\CViewEntityItem_Inv.Designer.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwBwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:38:07.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CFormTemplateMaster.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\CFormTemplateMaster.cs",
+              "RelativeDocumentMoniker": "Inventory.UX\\CFormTemplateMaster.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\CFormTemplateMaster.cs",
+              "RelativeToolTip": "Inventory.UX\\CFormTemplateMaster.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAA1wJsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T13:26:44.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CItem_PkgModel.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Models\\CItem_PkgModel.cs",
+              "RelativeDocumentMoniker": "Project.Logic\\Models\\CItem_PkgModel.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Models\\CItem_PkgModel.cs",
+              "RelativeToolTip": "Project.Logic\\Models\\CItem_PkgModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:17:56.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CTableFormStore_Pos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\TableForms\\CTableFormStore_Pos.cs",
+              "RelativeDocumentMoniker": "Inventory.UX\\TableForms\\CTableFormStore_Pos.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\TableForms\\CTableFormStore_Pos.cs [Design]",
+              "RelativeToolTip": "Inventory.UX\\TableForms\\CTableFormStore_Pos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:21:35.183Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CTableFormStore_Pos.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\TableForms\\CTableFormStore_Pos.cs",
+              "RelativeDocumentMoniker": "Inventory.UX\\TableForms\\CTableFormStore_Pos.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\TableForms\\CTableFormStore_Pos.cs",
+              "RelativeToolTip": "Inventory.UX\\TableForms\\CTableFormStore_Pos.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:22:16.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TableITEM_PKG.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Data\\Tables\\TableITEM_PKG.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Tables\\TableITEM_PKG.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Data\\Tables\\TableITEM_PKG.cs",
+              "RelativeToolTip": "Project.Data\\Tables\\TableITEM_PKG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:33:51.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "STORE.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Data\\Records\\STORE.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Records\\STORE.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Data\\Records\\STORE.cs",
+              "RelativeToolTip": "Project.Data\\Records\\STORE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:39:11.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITEM.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Data\\Records\\ITEM.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Records\\ITEM.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Data\\Records\\ITEM.cs",
+              "RelativeToolTip": "Project.Data\\Records\\ITEM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:49:13.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "STORE_POS.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Data\\Records\\STORE_POS.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Records\\STORE_POS.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Data\\Records\\STORE_POS.cs",
+              "RelativeToolTip": "Project.Data\\Records\\STORE_POS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:50:41.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CStore.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Entities\\CStore.cs",
+              "RelativeDocumentMoniker": "Project.Logic\\Entities\\CStore.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Entities\\CStore.cs",
+              "RelativeToolTip": "Project.Logic\\Entities\\CStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:39:21.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CStatus.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Entities\\CStatus.cs",
+              "RelativeDocumentMoniker": "Project.Logic\\Entities\\CStatus.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Entities\\CStatus.cs",
+              "RelativeToolTip": "Project.Logic\\Entities\\CStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:39:46.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CDataModuleBuilderItem_Inv.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Builders\\CDataModuleBuilderItem_Inv.cs",
+              "RelativeDocumentMoniker": "Project.Logic\\Builders\\CDataModuleBuilderItem_Inv.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Builders\\CDataModuleBuilderItem_Inv.cs",
+              "RelativeToolTip": "Project.Logic\\Builders\\CDataModuleBuilderItem_Inv.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIA6wDIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:41:17.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CItem_Inv.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Entities\\CItem_Inv.cs",
+              "RelativeDocumentMoniker": "Project.Logic\\Entities\\CItem_Inv.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Entities\\CItem_Inv.cs",
+              "RelativeToolTip": "Project.Logic\\Entities\\CItem_Inv.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:29:00.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CTableFormStore.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\TableForms\\CTableFormStore.Designer.cs",
+              "RelativeDocumentMoniker": "Inventory.UX\\TableForms\\CTableFormStore.Designer.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\TableForms\\CTableFormStore.Designer.cs",
+              "RelativeToolTip": "Inventory.UX\\TableForms\\CTableFormStore.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:25:01.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CTableFormStore.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\TableForms\\CTableFormStore.cs",
+              "RelativeDocumentMoniker": "Inventory.UX\\TableForms\\CTableFormStore.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\TableForms\\CTableFormStore.cs [Design]",
+              "RelativeToolTip": "Inventory.UX\\TableForms\\CTableFormStore.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:25:46.86Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CFormMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\WindowsApp\\CFormMain.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsApp\\CFormMain.Designer.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\WindowsApp\\CFormMain.Designer.cs",
+              "RelativeToolTip": "WindowsApp\\CFormMain.Designer.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAywF4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:30:36.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CDataTableFactory.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Data\\CDataTableFactory.cs",
+              "RelativeDocumentMoniker": "Project.Data\\CDataTableFactory.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Data\\CDataTableFactory.cs",
+              "RelativeToolTip": "Project.Data\\CDataTableFactory.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAywDgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:32:38.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Inventory.Logic",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj",
+              "RelativeDocumentMoniker": "Project.Logic\\Inventory.Logic.csproj",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj",
+              "RelativeToolTip": "Project.Logic\\Inventory.Logic.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-30T12:34:52.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CTableFormStore_Pos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\TableForms\\CTableFormStore_Pos.Designer.cs",
+              "RelativeDocumentMoniker": "Inventory.UX\\TableForms\\CTableFormStore_Pos.Designer.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\TableForms\\CTableFormStore_Pos.Designer.cs",
+              "RelativeToolTip": "Inventory.UX\\TableForms\\CTableFormStore_Pos.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:21:32.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CStore_Pos.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Entities\\CStore_Pos.cs",
+              "RelativeDocumentMoniker": "Project.Logic\\Entities\\CStore_Pos.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Entities\\CStore_Pos.cs",
+              "RelativeToolTip": "Project.Logic\\Entities\\CStore_Pos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:34:11.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CStore_Pos_Model.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Models\\CStore_Pos_Model.cs",
+              "RelativeDocumentMoniker": "Project.Logic\\Models\\CStore_Pos_Model.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Models\\CStore_Pos_Model.cs",
+              "RelativeToolTip": "Project.Logic\\Models\\CStore_Pos_Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:17:52.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CTableFormItem_Pkg.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\TableForms\\CTableFormItem_Pkg.cs",
+              "RelativeDocumentMoniker": "Inventory.UX\\TableForms\\CTableFormItem_Pkg.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\TableForms\\CTableFormItem_Pkg.cs",
+              "RelativeToolTip": "Inventory.UX\\TableForms\\CTableFormItem_Pkg.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:19:11.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CTableFormItem_Pkg.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\TableForms\\CTableFormItem_Pkg.cs",
+              "RelativeDocumentMoniker": "Inventory.UX\\TableForms\\CTableFormItem_Pkg.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\TableForms\\CTableFormItem_Pkg.cs [Design]",
+              "RelativeToolTip": "Inventory.UX\\TableForms\\CTableFormItem_Pkg.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:20:07.093Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CTableFormItem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\TableForms\\CTableFormItem.cs",
+              "RelativeDocumentMoniker": "Inventory.UX\\TableForms\\CTableFormItem.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\TableForms\\CTableFormItem.cs [Design]",
+              "RelativeToolTip": "Inventory.UX\\TableForms\\CTableFormItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:20:50.512Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CTableFormItem_Pkg.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\TableForms\\CTableFormItem_Pkg.Designer.cs",
+              "RelativeDocumentMoniker": "Inventory.UX\\TableForms\\CTableFormItem_Pkg.Designer.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\TableForms\\CTableFormItem_Pkg.Designer.cs",
+              "RelativeToolTip": "Inventory.UX\\TableForms\\CTableFormItem_Pkg.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:20:03.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CStatusModel.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Models\\CStatusModel.cs",
+              "RelativeDocumentMoniker": "Project.Logic\\Models\\CStatusModel.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Models\\CStatusModel.cs",
+              "RelativeToolTip": "Project.Logic\\Models\\CStatusModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:18:46.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Models\\CItemModel.cs",
+              "RelativeDocumentMoniker": "Project.Logic\\Models\\CItemModel.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Models\\CItemModel.cs",
+              "RelativeToolTip": "Project.Logic\\Models\\CItemModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:17:18.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
               "Title": "CViewBrowserItem_Inv.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Inventory.UX\\Views\\CViewBrowserItem_Inv.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\Views\\CViewBrowserItem_Inv.Designer.cs",
               "RelativeDocumentMoniker": "Inventory.UX\\Views\\CViewBrowserItem_Inv.Designer.cs",
-              "ToolTip": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Inventory.UX\\Views\\CViewBrowserItem_Inv.Designer.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\Views\\CViewBrowserItem_Inv.Designer.cs",
               "RelativeToolTip": "Inventory.UX\\Views\\CViewBrowserItem_Inv.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -109,88 +695,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CItem_Inv_Line.cs",
-              "DocumentMoniker": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Project.Logic\\Entities\\CItem_Inv_Line.cs",
-              "RelativeDocumentMoniker": "Project.Logic\\Entities\\CItem_Inv_Line.cs",
-              "ToolTip": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Project.Logic\\Entities\\CItem_Inv_Line.cs",
-              "RelativeToolTip": "Project.Logic\\Entities\\CItem_Inv_Line.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T14:49:27.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 41,
               "Title": "CItem_Inv_LineModel.cs",
-              "DocumentMoniker": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Project.Logic\\Models\\CItem_Inv_LineModel.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Models\\CItem_Inv_LineModel.cs",
               "RelativeDocumentMoniker": "Project.Logic\\Models\\CItem_Inv_LineModel.cs",
-              "ToolTip": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Project.Logic\\Models\\CItem_Inv_LineModel.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Models\\CItem_Inv_LineModel.cs",
               "RelativeToolTip": "Project.Logic\\Models\\CItem_Inv_LineModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T14:49:24.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T14:49:24.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 40,
               "Title": "CV_INVENTORIES.cs",
-              "DocumentMoniker": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Project.Logic\\Entities\\CV_INVENTORIES.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Entities\\CV_INVENTORIES.cs",
               "RelativeDocumentMoniker": "Project.Logic\\Entities\\CV_INVENTORIES.cs",
-              "ToolTip": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Project.Logic\\Entities\\CV_INVENTORIES.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Entities\\CV_INVENTORIES.cs",
               "RelativeToolTip": "Project.Logic\\Entities\\CV_INVENTORIES.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAuwDgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T14:38:28.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T14:38:28.465Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CItem_Inv.cs",
-              "DocumentMoniker": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Project.Logic\\Entities\\CItem_Inv.cs",
-              "RelativeDocumentMoniker": "Project.Logic\\Entities\\CItem_Inv.cs",
-              "ToolTip": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Project.Logic\\Entities\\CItem_Inv.cs",
-              "RelativeToolTip": "Project.Logic\\Entities\\CItem_Inv.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T14:29:00.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 38,
               "Title": "CItem_InvModel.cs",
-              "DocumentMoniker": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Project.Logic\\Models\\CItem_InvModel.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Models\\CItem_InvModel.cs",
               "RelativeDocumentMoniker": "Project.Logic\\Models\\CItem_InvModel.cs",
-              "ToolTip": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Project.Logic\\Models\\CItem_InvModel.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Models\\CItem_InvModel.cs",
               "RelativeToolTip": "Project.Logic\\Models\\CItem_InvModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T14:28:57.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CViewEntityItem_Inv.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Inventory.UX\\Views\\CViewEntityItem_Inv.cs",
-              "RelativeDocumentMoniker": "Inventory.UX\\Views\\CViewEntityItem_Inv.cs",
-              "ToolTip": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Inventory.UX\\Views\\CViewEntityItem_Inv.cs [Design]",
-              "RelativeToolTip": "Inventory.UX\\Views\\CViewEntityItem_Inv.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T14:27:57.622Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WindowsApp",
-              "DocumentMoniker": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\WindowsApp\\WindowsApp.csproj",
+              "DocumentIndex": 44,
+              "Title": "WindowsApp.csproj",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\WindowsApp\\WindowsApp.csproj",
               "RelativeDocumentMoniker": "WindowsApp\\WindowsApp.csproj",
-              "ToolTip": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\WindowsApp\\WindowsApp.csproj",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\WindowsApp\\WindowsApp.csproj",
               "RelativeToolTip": "WindowsApp\\WindowsApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -199,11 +745,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 42,
               "Title": "CViewBrowserItem_Inv.cs",
-              "DocumentMoniker": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Inventory.UX\\Views\\CViewBrowserItem_Inv.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\Views\\CViewBrowserItem_Inv.cs",
               "RelativeDocumentMoniker": "Inventory.UX\\Views\\CViewBrowserItem_Inv.cs",
-              "ToolTip": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Inventory.UX\\Views\\CViewBrowserItem_Inv.cs",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\Views\\CViewBrowserItem_Inv.cs",
               "RelativeToolTip": "Inventory.UX\\Views\\CViewBrowserItem_Inv.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAMwC8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -212,28 +758,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 39,
               "Title": "CViewBrowserItem_Inv.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Inventory.UX\\Views\\CViewBrowserItem_Inv.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\Views\\CViewBrowserItem_Inv.cs",
               "RelativeDocumentMoniker": "Inventory.UX\\Views\\CViewBrowserItem_Inv.cs",
-              "ToolTip": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\Inventory.UX\\Views\\CViewBrowserItem_Inv.cs [Design]",
+              "ToolTip": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\Views\\CViewBrowserItem_Inv.cs [Design]",
               "RelativeToolTip": "Inventory.UX\\Views\\CViewBrowserItem_Inv.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T14:22:27.428Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CFormMain.cs",
-              "DocumentMoniker": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\WindowsApp\\CFormMain.cs",
-              "RelativeDocumentMoniker": "WindowsApp\\CFormMain.cs",
-              "ToolTip": "C:\\Users\\thana\\source\\repos\\marvokan\\412Project\\Project\\WindowsApp\\CFormMain.cs",
-              "RelativeToolTip": "WindowsApp\\CFormMain.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwBsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T16:49:48.07Z",
-              "EditorCaption": ""
             }
           ]
         }
