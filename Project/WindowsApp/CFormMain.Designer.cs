@@ -106,7 +106,7 @@
             IsMdiContainer = true;
             MainMenuStrip = mnuMain;
             Name = "CFormMain";
-            Text = "Flix Streaming Service Manager Application";
+            Text = "ERP Inventory Module";
             WindowState = FormWindowState.Maximized;
             mnuMain.ResumeLayout(false);
             mnuMain.PerformLayout();

@@ -68,6 +68,8 @@ namespace Lib.UX.DataGrid
                 ValueMember = p_oSetup["ValueMember"],      // The key field of the lookup entity
                 DisplayMember = p_oSetup["DisplayMember"],  // The field that will used for displaying a lookup entity
                 DataPropertyName = p_oSetup["ForeignKey"],  // The foreign key field on the detail entity that will receive the selected value
+                ReadOnly = p_oSetup["ReadOnly"].ToLower() == "true" ? true : false,
+
 
                 DisplayStyle = DataGridViewComboBoxDisplayStyle.DropDownButton,
             };

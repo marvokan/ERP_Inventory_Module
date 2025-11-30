@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Lib\\Lib.csproj": {}
+    "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Lib\\Lib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Lib\\Lib.csproj": {
+    "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Lib\\Lib.csproj": {
       "version": "4.1.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Lib\\Lib.csproj",
+        "projectUniqueName": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Lib\\Lib.csproj",
         "projectName": "Lib",
-        "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Lib\\Lib.csproj",
+        "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Lib\\Lib.csproj",
         "packagesPath": "C:\\Users\\thana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Lib\\obj\\",
+        "outputPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Lib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

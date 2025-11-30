@@ -86,10 +86,8 @@ namespace Inventory.UX.Views
                 }
 
 
-                if (this.dtInventoryDate.Checked)
-                    oCurrentUser.INV_DATETIME = this.dtInventoryDate.Value.Date;
-                else
-                    oCurrentUser.INV_DATETIME = null;
+                oCurrentUser.INV_DATETIME = this.dtInventoryDate.Value;
+               
 
                 
                 oCurrentUser.Change = EntityChangeType.UPDATED;

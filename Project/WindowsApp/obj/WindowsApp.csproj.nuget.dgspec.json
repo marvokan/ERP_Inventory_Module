@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\WindowsApp\\WindowsApp.csproj": {}
+    "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\WindowsApp\\WindowsApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj": {
+    "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Inventory.Common\\Inventory.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj",
+        "projectUniqueName": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Inventory.Common\\Inventory.Common.csproj",
         "projectName": "Inventory.Common",
-        "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj",
+        "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Inventory.Common\\Inventory.Common.csproj",
         "packagesPath": "C:\\Users\\thana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.Common\\obj\\",
+        "outputPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Inventory.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\Inventory.UX.csproj": {
+    "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Inventory.UX\\Inventory.UX.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\Inventory.UX.csproj",
+        "projectUniqueName": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Inventory.UX\\Inventory.UX.csproj",
         "projectName": "Inventory.UX",
-        "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\Inventory.UX.csproj",
+        "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Inventory.UX\\Inventory.UX.csproj",
         "packagesPath": "C:\\Users\\thana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\obj\\",
+        "outputPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Inventory.UX\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,14 +99,14 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj": {
-                "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj"
+              "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Inventory.Common\\Inventory.Common.csproj": {
+                "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Inventory.Common\\Inventory.Common.csproj"
               },
-              "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Lib.UX\\Lib.UX.csproj": {
-                "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Lib.UX\\Lib.UX.csproj"
+              "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Lib.UX\\Lib.UX.csproj": {
+                "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Lib.UX\\Lib.UX.csproj"
               },
-              "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj": {
-                "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj"
+              "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Project.Logic\\Inventory.Logic.csproj": {
+                "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Project.Logic\\Inventory.Logic.csproj"
               }
             }
           }
@@ -149,14 +149,14 @@
         }
       }
     },
-    "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Lib.UX\\Lib.UX.csproj": {
+    "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Lib.UX\\Lib.UX.csproj": {
       "version": "4.1.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Lib.UX\\Lib.UX.csproj",
+        "projectUniqueName": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Lib.UX\\Lib.UX.csproj",
         "projectName": "Lib.UX",
-        "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Lib.UX\\Lib.UX.csproj",
+        "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Lib.UX\\Lib.UX.csproj",
         "packagesPath": "C:\\Users\\thana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Lib.UX\\obj\\",
+        "outputPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Lib.UX\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -178,8 +178,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Lib\\Lib.csproj": {
-                "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Lib\\Lib.csproj"
+              "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Lib\\Lib.csproj": {
+                "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Lib\\Lib.csproj"
               }
             }
           }
@@ -222,14 +222,14 @@
         }
       }
     },
-    "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Lib\\Lib.csproj": {
+    "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Lib\\Lib.csproj": {
       "version": "4.1.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Lib\\Lib.csproj",
+        "projectUniqueName": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Lib\\Lib.csproj",
         "projectName": "Lib",
-        "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Lib\\Lib.csproj",
+        "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Lib\\Lib.csproj",
         "packagesPath": "C:\\Users\\thana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Lib\\obj\\",
+        "outputPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Lib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -302,14 +302,14 @@
         }
       }
     },
-    "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Data\\Inventory.Data.csproj": {
+    "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Project.Data\\Inventory.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Data\\Inventory.Data.csproj",
+        "projectUniqueName": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Project.Data\\Inventory.Data.csproj",
         "projectName": "Inventory.Data",
-        "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Data\\Inventory.Data.csproj",
+        "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Project.Data\\Inventory.Data.csproj",
         "packagesPath": "C:\\Users\\thana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Data\\obj\\",
+        "outputPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Project.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -331,11 +331,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj": {
-                "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj"
+              "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Inventory.Common\\Inventory.Common.csproj": {
+                "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Inventory.Common\\Inventory.Common.csproj"
               },
-              "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Lib\\Lib.csproj": {
-                "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Lib\\Lib.csproj"
+              "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Lib\\Lib.csproj": {
+                "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Lib\\Lib.csproj"
               }
             }
           }
@@ -375,14 +375,14 @@
         }
       }
     },
-    "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj": {
+    "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Project.Logic\\Inventory.Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj",
+        "projectUniqueName": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Project.Logic\\Inventory.Logic.csproj",
         "projectName": "Inventory.Logic",
-        "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\Inventory.Logic.csproj",
+        "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Project.Logic\\Inventory.Logic.csproj",
         "packagesPath": "C:\\Users\\thana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Logic\\obj\\",
+        "outputPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Project.Logic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -404,14 +404,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj": {
-                "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.Common\\Inventory.Common.csproj"
+              "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Inventory.Common\\Inventory.Common.csproj": {
+                "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Inventory.Common\\Inventory.Common.csproj"
               },
-              "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Lib\\Lib.csproj": {
-                "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Lib\\Lib.csproj"
+              "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Lib\\Lib.csproj": {
+                "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Lib\\Lib.csproj"
               },
-              "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Data\\Inventory.Data.csproj": {
-                "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Project.Data\\Inventory.Data.csproj"
+              "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Project.Data\\Inventory.Data.csproj": {
+                "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Project.Data\\Inventory.Data.csproj"
               }
             }
           }
@@ -451,14 +451,14 @@
         }
       }
     },
-    "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\WindowsApp\\WindowsApp.csproj": {
+    "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\WindowsApp\\WindowsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\WindowsApp\\WindowsApp.csproj",
+        "projectUniqueName": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\WindowsApp\\WindowsApp.csproj",
         "projectName": "WindowsApp",
-        "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\WindowsApp\\WindowsApp.csproj",
+        "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\WindowsApp\\WindowsApp.csproj",
         "packagesPath": "C:\\Users\\thana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\WindowsApp\\obj\\",
+        "outputPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\WindowsApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -480,8 +480,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\Inventory.UX.csproj": {
-                "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\412Project\\Project\\Inventory.UX\\Inventory.UX.csproj"
+              "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Inventory.UX\\Inventory.UX.csproj": {
+                "projectPath": "C:\\Users\\thana\\Desktop\\ACT\\CS 412 - Object Oriented Patterns\\FinalProjectCharitidis\\Project\\Inventory.UX\\Inventory.UX.csproj"
               }
             }
           }

@@ -41,11 +41,9 @@
             lstBrowser.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             lstBrowser.Font = new Font("Cascadia Mono", 8.861538F);
             lstBrowser.FormattingEnabled = true;
-            lstBrowser.ItemHeight = 21;
-            lstBrowser.Location = new Point(15, 104);
-            lstBrowser.Margin = new Padding(4, 4, 4, 4);
+            lstBrowser.Location = new Point(12, 74);
             lstBrowser.Name = "lstBrowser";
-            lstBrowser.Size = new Size(997, 466);
+            lstBrowser.Size = new Size(776, 324);
             lstBrowser.TabIndex = 0;
             lstBrowser.DoubleClick += DoOnAnyCommand;
             lstBrowser.KeyPress += DoOnAnyKeyPress;
@@ -53,50 +51,47 @@
             // lblSearch
             // 
             lblSearch.AutoSize = true;
-            lblSearch.Location = new Point(19, 24);
-            lblSearch.Margin = new Padding(4, 0, 4, 0);
+            lblSearch.Location = new Point(15, 17);
             lblSearch.Name = "lblSearch";
-            lblSearch.Size = new Size(109, 21);
+            lblSearch.Size = new Size(81, 15);
             lblSearch.TabIndex = 0;
-            lblSearch.Text = "Store Location";
+            lblSearch.Text = "Person Name:";
             // 
             // pnlTop
             // 
             pnlTop.Controls.Add(txtSearch);
             pnlTop.Controls.Add(btnFind);
             pnlTop.Controls.Add(lblSearch);
-            pnlTop.Location = new Point(15, 10);
-            pnlTop.Margin = new Padding(4, 4, 4, 4);
+            pnlTop.Location = new Point(12, 7);
             pnlTop.Name = "pnlTop";
-            pnlTop.Size = new Size(998, 85);
+            pnlTop.Size = new Size(776, 61);
             pnlTop.TabIndex = 1;
             // 
             // txtSearch
             // 
-            txtSearch.Location = new Point(134, 20);
-            txtSearch.Margin = new Padding(4, 4, 4, 4);
+            txtSearch.Location = new Point(104, 14);
             txtSearch.Name = "txtSearch";
-            txtSearch.Size = new Size(419, 29);
+            txtSearch.Size = new Size(327, 23);
             txtSearch.TabIndex = 2;
+            txtSearch.KeyPress += DoOnAnyKeyPress;
             // 
             // btnFind
             // 
-            btnFind.Location = new Point(562, 20);
-            btnFind.Margin = new Padding(4, 4, 4, 4);
+            btnFind.Location = new Point(437, 14);
             btnFind.Name = "btnFind";
-            btnFind.Size = new Size(96, 32);
-            btnFind.TabIndex = 1;
+            btnFind.Size = new Size(75, 23);
+            btnFind.TabIndex = 3;
             btnFind.Text = "Search";
             btnFind.UseVisualStyleBackColor = true;
+            btnFind.Click += DoOnAnyCommand;
             // 
             // CViewBrowserItem_Inv
             // 
-            AutoScaleDimensions = new SizeF(9F, 21F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1029, 630);
+            ClientSize = new Size(800, 450);
             Controls.Add(pnlTop);
             Controls.Add(lstBrowser);
-            Margin = new Padding(4, 4, 4, 4);
             Name = "CViewBrowserItem_Inv";
             Text = "CViewBrowserItem_Inv";
             pnlTop.ResumeLayout(false);
