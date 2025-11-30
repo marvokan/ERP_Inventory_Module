@@ -10,6 +10,15 @@
     <Compile Update="TableForms\CTableFormItem.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="TableForms\CTableFormItem_Pkg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TableForms\CTableFormStore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TableForms\CTableFormStore_Pos.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Views\CViewBrowserItem_Inv.cs">
       <SubType>Form</SubType>
     </Compile>

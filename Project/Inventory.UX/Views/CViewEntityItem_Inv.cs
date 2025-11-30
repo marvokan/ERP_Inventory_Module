@@ -28,6 +28,9 @@ namespace Inventory.UX.Views
         public CViewEntityItem_Inv()
         {
             InitializeComponent();
+            //dgvDetails.Columns["Base Price"].ReadOnly = true;
+            //dgvDetails.Columns["Description"].ReadOnly = true;
+
         }
         // --------------------------------------------------------------------------------------
         public void SetParent(Form p_oForm)
@@ -36,6 +39,7 @@ namespace Inventory.UX.Views
             
             this.detailsGrid = new CDetailGridDecorator(this.dgvDetails, oMasterForm.FormContext);
             oMasterForm.DetailGrids.Add(this.detailsGrid);
+
 
             this.module = (DMItem_Inv)oMasterForm.Module;
         }
@@ -46,7 +50,7 @@ namespace Inventory.UX.Views
             if (oCurrentUser != null)
             { 
                 this.txtPerson.Text = oCurrentUser.PERSON;
-                this.numStore.Value = oCurrentUser.STORE_CID;
+                //this.numStore.Value = oCurrentUser.STORE_CID;
 
 
                 this.dtInventoryDate.Checked = (oCurrentUser.INV_DATETIME != null);
@@ -54,6 +58,7 @@ namespace Inventory.UX.Views
 
 
                 this.displayStatusLookup(oCurrentUser);
+                this.displayStoreLookup(oCurrentUser);
             }
         }
         // --------------------------------------------------------------------------------------
@@ -71,13 +76,18 @@ namespace Inventory.UX.Views
                     oCurrentUser.Status = oSelectedStatus.ID;
                 }
 
-                oCurrentUser.STORE_CID = (int)this.numStore.Value;
+                //oCurrentUser.STORE_CID = (int)this.numStore.Value;
+
+                oCurrentUser.STORE_CID = -1;
+                if (this.cboStores.SelectedItem != null)
+                {
+                    CStore oSelectedStore = (CStore)this.cboStores.SelectedItem;
+                    oCurrentUser.STORE_CID = oSelectedStore.Cid;
+                }
 
 
-                if (this.dtInventoryDate.Checked)
-                    oCurrentUser.INV_DATETIME = this.dtInventoryDate.Value.Date;
-                else
-                    oCurrentUser.INV_DATETIME = null;
+                oCurrentUser.INV_DATETIME = this.dtInventoryDate.Value;
+               
 
                 
                 oCurrentUser.Change = EntityChangeType.UPDATED;
@@ -88,8 +98,9 @@ namespace Inventory.UX.Views
         {
             // [PATTERNS] Proxy
             this.detailsGrid.Populate<CItem_Inv_Line>(this.module.Details);
-
+            
             addStatusLookupColumn(this.module.Lookups[CDataModuleBuilderItem_Inv.LOOKUP_ITEMS]);
+            addPriceLookupColumn(this.module.Lookups[CDataModuleBuilderItem_Inv.LOOKUP_ITEMS]);
         }
         // --------------------------------------------------------------------------------------
 
@@ -117,6 +128,25 @@ namespace Inventory.UX.Views
             // [C#] The single ? is for a nullable type. On the right side of the null coalescence operator ?? is what to show in case of null
             this.cboStatus.Text = p_oCurrentAppUser.StatusDesc ?? "No status";
         }
+
+        private void displayStoreLookup(CItem_Inv p_oCurrentAppUser)
+        {
+            // Loads all the options
+            this.cboStores.ValueMember = "Cid";
+            this.cboStores.DisplayMember = "STORE_LOC";
+            this.cboStores.Items.Clear();
+            CStoreModel oLookup = (CStoreModel)this.module.Lookups[CDataModuleBuilderItem_Inv.LOOKUP_STORES];
+
+            foreach (CStore oStore in oLookup)
+                this.cboStores.Items.Add(oStore);
+
+            // Run the lookup relation to get the foreign entity and its fiedls;
+            p_oCurrentAppUser.LookUpStore(oLookup);
+
+            this.cboStores.SelectedItem = p_oCurrentAppUser.STORE_CID;
+            // [C#] The single ? is for a nullable type. On the right side of the null coalescence operator ?? is what to show in case of null
+            this.cboStores.Text = p_oCurrentAppUser.StoreLoc ?? "No store";
+        }
         // --------------------------------------------------------------------------------------
         // Create a lookup combo box column on the grid for the detail (AppUserMovies)
         // and load all lookup entities (Movies)
@@ -127,13 +157,33 @@ namespace Inventory.UX.Views
                 ["Text"] = "Item Name",        // The title of the column
                 ["ValueMember"] = "Id",         // The key field of the lookup entity
                 ["DisplayMember"] = "Description",     // The field that will used for displaying a lookup entity
-                ["ForeignKey"] = "Item_Id"      // The foreign key field on the detail entity that will receive the selected value
+                ["ForeignKey"] = "Item_Id",      // The foreign key field on the detail entity that will receive the selected value
+                ["ReadOnly"] = "True"
             };
             DataGridViewComboBoxColumn oMovieLookupColumn = this.detailsGrid.CreateLookupColumn("ItemName", oLookupSetup);
 
             oMovieLookupColumn.DataSource = null;
             oMovieLookupColumn.DataSource = p_oLookupModel;
         }
+
+        private void addPriceLookupColumn(IModel p_oLookupModel)
+        {
+            Dictionary<string, string> oLookupSetup = new Dictionary<string, string>()
+            {
+                ["Text"] = "Base Price",        // The title of the column
+                ["ValueMember"] = "Id",         // The key field of the lookup entity
+                ["DisplayMember"] = "Base_Price",     // The field that will used for displaying a lookup entity
+                ["ForeignKey"] = "Item_Id",      // The foreign key field on the detail entity that will receive the selected value
+                ["ReadOnly"] = "True"
+
+            };
+            DataGridViewComboBoxColumn oMovieLookupColumn = this.detailsGrid.CreateLookupColumn("BasePrice", oLookupSetup);
+
+            oMovieLookupColumn.DataSource = null;
+            oMovieLookupColumn.DataSource = p_oLookupModel;
+        }
+
+
         // --------------------------------------------------------------------------------------
         #endregion
 

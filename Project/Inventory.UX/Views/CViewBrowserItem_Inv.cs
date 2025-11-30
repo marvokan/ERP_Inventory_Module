@@ -1,4 +1,10 @@
-﻿using System;
+﻿using Inventory.Logic.Entities;
+using Inventory.Logic.Models;
+using Lib.Logic;
+using Lib.UX;
+using Lib.UX.Controls;
+using Lib.UX.DataForms;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -7,11 +13,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Inventory.Logic.Models;
-using Lib.Logic;
-using Lib.UX.DataForms;
-using Lib.UX.Controls;
-using Lib.UX;
 
 namespace Inventory.UX.Views
 {
@@ -67,15 +68,18 @@ namespace Inventory.UX.Views
         public void WriteBrowserListToUI()
         {
             this.lstBrowser.DataSource = null;
+
+            CV_INVENTORIES.UpdatePadding(this.browserModel);
+
             this.lstBrowser.DataSource = this.browserModel;
         }
 
-        private void FindByStoreName()
+        private void FindByPerson()
         {
             string sSearchStr = this.txtSearch.Text;
 
             // [C#/LINQ] This is an example of runing a SELECT query a generic list with a specific WHERE clause.
-            var oFound = this.browserModel.Where(x => x.StoreLocation.ToLower().Contains(sSearchStr.ToLower())).ToList();
+            var oFound = this.browserModel.Where(x => x.Person.ToLower().Contains(sSearchStr.ToLower())).ToList();
             if (oFound.Count > 0)
                 this.lstBrowser.SelectedItem = oFound[0];
         }
@@ -83,7 +87,7 @@ namespace Inventory.UX.Views
         private void DoOnAnyCommand(object sender, EventArgs e)
         {
             if (sender == btnFind)
-                FindByStoreName();
+                FindByPerson();
             else if (sender == lstBrowser)
                 // Trigger an open event on the parent form context, to switch to the entity view
                 this.parent.FormContext.HandleEvent(this.parent.FormContext.Open);
@@ -95,7 +99,7 @@ namespace Inventory.UX.Views
             {
                 if (sender == txtSearch)
                 {
-                    FindByStoreName();
+                    FindByPerson();
                     this.lstBrowser.Focus();
                     this.lstBrowser.Select();
                     e.Handled = true;

@@ -11,7 +11,7 @@ namespace Inventory.Data.Tables
 {
     public class TableSTORE : CDBTable<STORE>
     {
-        public TableSTORE(string p_sTableName) : base(p_sTableName)
+        public TableSTORE() : base("Store")
         {
         }
 
@@ -41,11 +41,11 @@ namespace Inventory.Data.Tables
                                   update STORE set
                                     STORE_LOC = @STORE_LOC                 
                                   where 
-                                    ID = @ID
+                                    CID = @CID
                                 ",
 
                             // Provide the delete statement that will be used for deleted records
-                            "delete from STORE where ID = @ID",
+                            "delete from STORE where CID = @CID",
 
                             p_iTransaction
                         );

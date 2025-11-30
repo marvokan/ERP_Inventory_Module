@@ -137,7 +137,7 @@
       "Inventory.Common/1.0.0": {
         "runtime": {
           "Inventory.Common.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -149,7 +149,7 @@
         },
         "runtime": {
           "Inventory.Data.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -162,7 +162,7 @@
         },
         "runtime": {
           "Inventory.Logic.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -175,7 +175,7 @@
         },
         "runtime": {
           "Lib.dll": {
-            "assemblyVersion": "4.1.0",
+            "assemblyVersion": "4.1.0.0",
             "fileVersion": "4.1.0.0"
           }
         }
@@ -186,7 +186,7 @@
         },
         "runtime": {
           "Lib.UX.dll": {
-            "assemblyVersion": "4.1.0",
+            "assemblyVersion": "4.1.0.0",
             "fileVersion": "4.1.0.0"
           }
         }

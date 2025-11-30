@@ -48,6 +48,8 @@ namespace Inventory.Logic.Builders
 
         public const int LOOKUP_STATUS = 1;
 
+        public const int LOOKUP_STORES = 2;
+
 
 
         public void BuildLookupModels()
@@ -57,10 +59,11 @@ namespace Inventory.Logic.Builders
 
             CStatusModel oLookup2 = new CStatusModel();  // [C#] Variant Types. This is a feature to turn C# into Python, don't misuse it!
 
-
+            CStoreModel oLookup3 = new CStoreModel();  // [C#] Variant Types. This is a feature to turn C# into Python, don't misuse it!
 
             product.Lookups.Add(oLookup1);
             product.Lookups.Add(oLookup2);
+            product.Lookups.Add(oLookup3);
         }
         // -----------------------------------------------------------------------------------------------
         #endregion

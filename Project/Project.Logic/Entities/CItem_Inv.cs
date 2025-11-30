@@ -19,6 +19,8 @@ namespace Inventory.Logic.Entities
 
         public string StatusDesc { get; set; }
 
+        public string StoreLoc { get; set; }
+
         public void LookUpStatus(List<CStatus> p_oStatuses)
         {
             var oFound = p_oStatuses.Where(x => x.ID == this.Status).ToList();
@@ -26,6 +28,15 @@ namespace Inventory.Logic.Entities
                 this.StatusDesc = oFound[0].Name;
             else
                 this.StatusDesc = "";
+        }
+
+        public void LookUpStore(List<CStore> p_oStores)
+        {
+            var oFound = p_oStores.Where(x => x.Cid == this.STORE_CID).ToList();
+            if (oFound.Count > 0)
+                this.StoreLoc = oFound[0].STORE_LOC;
+            else
+                this.StoreLoc = "";
         }
 
 

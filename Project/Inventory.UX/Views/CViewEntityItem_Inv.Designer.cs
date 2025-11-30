@@ -37,9 +37,8 @@
             lblInventories = new Label();
             dgvDetails = new DataGridView();
             lblStore = new Label();
-            numStore = new NumericUpDown();
+            cboStores = new ComboBox();
             ((System.ComponentModel.ISupportInitialize)dgvDetails).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)numStore).BeginInit();
             SuspendLayout();
             // 
             // lblPerson
@@ -86,10 +85,10 @@
             // 
             // dtInventoryDate
             // 
-            dtInventoryDate.Format = DateTimePickerFormat.Short;
+            dtInventoryDate.CustomFormat = "dd/MM/yyyy HH:mm";
+            dtInventoryDate.Format = DateTimePickerFormat.Custom;
             dtInventoryDate.Location = new Point(118, 69);
             dtInventoryDate.Name = "dtInventoryDate";
-            dtInventoryDate.ShowCheckBox = true;
             dtInventoryDate.Size = new Size(215, 23);
             dtInventoryDate.TabIndex = 14;
             // 
@@ -112,34 +111,37 @@
             dgvDetails.Name = "dgvDetails";
             dgvDetails.Size = new Size(1473, 446);
             dgvDetails.TabIndex = 21;
+            
+
             // 
             // lblStore
             // 
             lblStore.AutoSize = true;
-            lblStore.Location = new Point(75, 101);
+            lblStore.Location = new Point(75, 104);
             lblStore.Name = "lblStore";
             lblStore.Size = new Size(37, 15);
             lblStore.TabIndex = 24;
             lblStore.Text = "Store:";
             // 
-            // numStore
+            // cboStores
             // 
-            numStore.Location = new Point(118, 98);
-            numStore.Name = "numStore";
-            numStore.Size = new Size(61, 23);
-            numStore.TabIndex = 26;
+            cboStores.FormattingEnabled = true;
+            cboStores.Location = new Point(118, 101);
+            cboStores.Name = "cboStores";
+            cboStores.Size = new Size(240, 23);
+            cboStores.TabIndex = 27;
             // 
             // CViewEntityItem_Inv
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1497, 615);
-            Controls.Add(numStore);
             Controls.Add(lblStore);
             Controls.Add(lblPerson);
             Controls.Add(txtPerson);
             Controls.Add(lblStatus);
             Controls.Add(cboStatus);
+            Controls.Add(cboStores);
             Controls.Add(lblInventoryDate);
             Controls.Add(dtInventoryDate);
             Controls.Add(lblInventories);
@@ -147,7 +149,6 @@
             Name = "CViewEntityItem_Inv";
             Text = "CViewEntityItem_Inv";
             ((System.ComponentModel.ISupportInitialize)dgvDetails).EndInit();
-            ((System.ComponentModel.ISupportInitialize)numStore).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -162,6 +163,6 @@
         private Label lblInventories;
         private DataGridView dgvDetails;
         private Label lblStore;
-        private NumericUpDown numStore;
+        private ComboBox cboStores;
     }
 }
