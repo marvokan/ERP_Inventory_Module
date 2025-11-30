@@ -4,3 +4,4 @@
 *.suo
 *.cache/
 Project/.vs/
+/Project/.vs
