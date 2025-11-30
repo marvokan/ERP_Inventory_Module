@@ -13,14 +13,14 @@ This project is an ERP (Enterprise Resource Planning) inventory module designed 
 - **Package Management** - Barcode and serial number tracking for items
 - **Store & POS Management** - Multi-location inventory tracking
 - **Master-Detail Forms** - Rich UI for managing parent-child data relationships
-- **Multi-Database Support** - MS SQL Server (local and remote) and SQLite
+- **Multi-Database Support** - MS SQL Server (local and remote)
 - **Data Validation** - Automatic state tracking for records (New, Updated, Deleted)
 
 ## Technology Stack
 
 - **Language:** C# (.NET 8.0)
 - **UI Framework:** Windows Forms (WinForms)
-- **Database:** MS SQL Server, MS SQL LocalDB, SQLite
+- **Database:** MS SQL Server, MS SQL LocalDB
 - **ORM:** Dapper
 - **Architecture:** Layered/N-Tier with MVVM-like patterns
 
