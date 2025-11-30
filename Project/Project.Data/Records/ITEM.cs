@@ -13,7 +13,7 @@ namespace Inventory.Data.Records
         [Key]
         public int ID { get; set; }
 
-        public string CODE { get; set; } //Hi!
+        public string CODE { get; set; } //Hi!!!!
 
         public string DESCRIPTION { get; set; }
 
