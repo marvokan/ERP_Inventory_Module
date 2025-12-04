@@ -65,10 +65,10 @@ namespace Inventory.Common
             // [C#] The null conditional operator ?, ensures that the code will not stop with an exception,
             // when a nullable field/property/local variable contains null
 
-            this.DBServerURL = p_oSettings?.DBServerURL ?? "mssql-203334-0.cloudclusters.net,10033";
-            this.DBName = p_oSettings?.DBName ?? "DB_20220364";
-            this.DBUser = p_oSettings?.DBUser ?? "20220364";
-            this.DBPassword = p_oSettings?.DBPassword ?? "A@white$1821";
+            this.DBServerURL = p_oSettings?.DBServerURL ?? "";
+            this.DBName = p_oSettings?.DBName ?? "";
+            this.DBUser = p_oSettings?.DBUser ?? "";
+            this.DBPassword = p_oSettings?.DBPassword ?? "";
         }
         // -------------------------------------------------------------------------------------------
         // Go back p_nStepsBack folders from the folder from which the executable runs
